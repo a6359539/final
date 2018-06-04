@@ -24,9 +24,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
-/I E:\game\main\Source
-/I E:\game\main\Intermediate\Build\Win64\UE4Editor\Inc\main
-/I E:\game\main\Source\main
+/I E:\faker\final\main\Source
+/I E:\faker\final\main\Intermediate\Build\Win64\UE4Editor\Inc\main
+/I E:\faker\final\main\Source\main
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -364,9 +364,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\game\main\Source\main\main.cpp"
-/FI"E:\game\main\Intermediate\Build\Win64\UE4Editor\Development\main\Definitions.main.h"
-/Fo"E:\game\main\Intermediate\Build\Win64\UE4Editor\Development\main\main.cpp.obj"
+"E:\faker\final\main\Source\main\main.cpp"
+/FI"E:\faker\final\main\Intermediate\Build\Win64\UE4Editor\Development\main\Definitions.main.h"
+/Fo"E:\faker\final\main\Intermediate\Build\Win64\UE4Editor\Development\main\main.cpp.obj"
 /TP
 /GR-
 /W4
