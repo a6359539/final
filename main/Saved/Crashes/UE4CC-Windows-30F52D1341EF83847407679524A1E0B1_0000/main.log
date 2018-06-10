@@ -1,0 +1,1449 @@
+﻿Log file open, 06/10/18 20:05:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1257915922) SRandInit(-1257915922).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.850950
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.060s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file E:/faker/final/main/Binaries/Win64/UE4Editor-main-6487.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-UOVD1FB (192.168.123.102:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.10-11.05.26:404][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-11.05.26:404][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.10-11.05.26:522][  0]LogInit: Computer: DESKTOP-UOVD1FB
+[2018.06.10-11.05.26:522][  0]LogInit: User: master
+[2018.06.10-11.05.26:522][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.10-11.05.26:522][  0]LogInit: High frequency timer resolution =2.630627 MHz
+[2018.06.10-11.05.26:522][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.10-11.05.26:522][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.10-11.05.26:522][  0]LogMemory: Process Physical Memory: 275.89 MB used, 275.89 MB peak
+[2018.06.10-11.05.26:522][  0]LogMemory: Process Virtual Memory: 264.66 MB used, 264.66 MB peak
+[2018.06.10-11.05.26:522][  0]LogMemory: Physical Memory: 2703.66 MB used,  5377.09 MB free, 8080.75 MB total
+[2018.06.10-11.05.26:522][  0]LogMemory: Virtual Memory: 697.73 MB used,  5377.09 MB free, 134217728.00 MB total
+[2018.06.10-11.05.26:968][  0]LogInit: Using OS detected language (ko-KR).
+[2018.06.10-11.05.26:968][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.06.10-11.05.27:023][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.06.10-11.05.27:456][  0]LogStreaming: Display: Took  0.487s to EndInitTextLocalization.
+[2018.06.10-11.05.27:457][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.10-11.05.27:564][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.10-11.05.27:564][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.10-11.05.29:774][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.10-11.05.29:832][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.06.10-11.05.29:832][  0]LogD3D11RHI:       3032/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.10-11.05.29:838][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5600' (Feature Level 11_0)
+[2018.06.10-11.05.29:838][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.10-11.05.29:840][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.10-11.05.29:840][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.10-11.05.29:840][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.10-11.05.29:846][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.10-11.05.29:846][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.10-11.05.29:846][  0]LogWindows: EnumDisplayDevices:
+[2018.06.10-11.05.29:846][  0]LogWindows:    0. 'Intel(R) HD Graphics 5600' (P:1 D:1)
+[2018.06.10-11.05.29:847][  0]LogWindows:    1. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.06.10-11.05.29:847][  0]LogWindows:    2. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.06.10-11.05.29:847][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.10-11.05.29:847][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.06.10-11.05.29:847][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.10-11.05.29:847][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.10-11.05.29:847][  0]LogRHI: Texture pool is 2122 MB (70% of 3032 MB)
+[2018.06.10-11.05.29:884][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.10-11.05.29:884][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.10-11.05.29:884][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.10-11.05.29:918][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.10-11.05.29:924][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (E:/faker/final/main/Intermediate/Shaders/WorkingDirectory/12416/).
+[2018.06.10-11.05.29:924][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/master/AppData/Local/Temp/UnrealShaderWorkingDir/1B32427E49BBC281ECFEDC94D8693414/'.
+[2018.06.10-11.05.30:652][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.10-11.05.30:666][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.10-11.05.30:679][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.10-11.05.30:692][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.10-11.05.30:710][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.10-11.05.30:723][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.10-11.05.30:736][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.10-11.05.30:749][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.10-11.05.30:755][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.10-11.05.30:767][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.10-11.05.30:779][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.10-11.05.30:790][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.10-11.05.30:802][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.10-11.05.30:814][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.10-11.05.30:825][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.10-11.05.30:849][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.10-11.05.30:849][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.10-11.05.30:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.10-11.05.30:867][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.10-11.05.30:933][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.10-11.05.30:946][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.10-11.05.30:958][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.10-11.05.30:969][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.10-11.05.30:981][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.10-11.05.30:996][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.10-11.05.30:997][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.10-11.05.31:357][  0]LogXGEController: Cleaning working directory: C:/Users/master/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.10-11.05.31:357][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.10-11.05.31:358][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.10-11.05.31:358][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.10-11.05.33:143][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.10-11.05.33:436][  0]LogDerivedDataCache: Loaded boot cache 0.29s 74MB C:/Users/master/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-11.05.33:436][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/master/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.10-11.05.33:436][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/faker/final/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.10-11.05.33:436][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.10-11.05.33:436][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/faker/final/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.10-11.05.33:436][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.10-11.05.33:463][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.10-11.05.33:476][  0]LogDerivedDataCache: Using Local data cache path C:/Users/master/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.10-11.05.33:491][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.10-11.05.33:496][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.10-11.05.33:506][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-11.05.33:506][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-11.05.35:921][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2018.06.10-11.05.36:326][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-11.05.36:674][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.10-11.05.36:679][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.10-11.05.36:679][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.10-11.05.36:680][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.10-11.05.36:680][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.10-11.05.36:680][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.10-11.05.36:755][  0]LogNetVersion: main , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3158640400)
+[2018.06.10-11.05.38:023][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.085863 seconds
+[2018.06.10-11.05.38:030][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.10-11.05.38:030][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.10-11.05.38:030][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.10-11.05.43:122][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.10-11.05.43:152][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.10-11.05.43:410][  0]LogLinker: Warning: '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter' 파일을 찾을 수 없습니다.
+[2018.06.10-11.05.43:411][  0]LogLinker: Warning: '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter' 파일을 찾을 수 없습니다.
+[2018.06.10-11.05.43:411][  0]LogUObjectGlobals: Warning: 'Class /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' 오브젝트를 찾는 데 실패했습니다.
+[2018.06.10-11.05.43:411][  0]Error: CDO Constructor (mainGameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+
+[2018.06.10-11.05.43:411][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2018.06.10-11.05.43:411][  0]LogUObjectBase: Warning: Error: CDO Constructor (mainGameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+
+[2018.06.10-11.05.52:189][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.10-11.05.52:389][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-11.05.52:390][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-11.05.52:407][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-11.05.52:425][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-11.05.52:942][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.10-11.05.53:089][  0]LogOcInput: OculusInput pre-init called
+[2018.06.10-11.05.53:317][  0]LogEngine: Initializing Engine...
+[2018.06.10-11.05.53:319][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.10-11.05.53:323][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-11.05.53:323][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-11.05.53:934][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.10-11.05.53:949][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.10-11.05.53:977][  0]LogInit: FAudioDevice initialized.
+[2018.06.10-11.05.54:427][  0]LogDerivedDataCache: Saved boot cache 0.45s 74MB C:/Users/master/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-11.05.54:446][  0]LogInit: Texture streaming: Enabled
+[2018.06.10-11.05.54:491][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.10-11.05.54:675][  0]LogInit: Transaction tracking system initialized
+[2018.06.10-11.05.54:807][  0]BlueprintLog: New page: 에디터 로드
+[2018.06.10-11.05.54:997][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.06.10-11.05.55:191][  0]LogConsoleResponse: Display: 
+[2018.06.10-11.05.55:868][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.10-11.05.55:868][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.10-11.05.55:869][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.10-11.05.55:869][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-11.05.55:869][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-11.05.56:660][  0]LogFileCache: Scanning file cache for directory 'E:/faker/final/main/Content/' took 0.04s
+[2018.06.10-11.05.56:660][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-11.05.56:662][  0]Cmd: MAP LOAD FILE="E:/faker/final/main/Content/Battle/battle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.10-11.05.56:663][  0]LightingResults: New page: 라이팅 빌드
+[2018.06.10-11.05.56:674][  0]MapCheck: New page: 맵 체크
+[2018.06.10-11.05.56:674][  0]LightingResults: New page: 라이팅 빌드
+[2018.06.10-11.06.04:915][  0]LogLinker: Warning: Asset 'E:/faker/final/main/Content/pratice/wonseok/character/weapon/bow/Arrowactor.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.06.10-11.06.13:694][  0]LogLinker: Warning: Asset 'E:/faker/final/main/Content/sinyoung/widgetimage/ability.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.06.10-11.06.23:993][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.06.10-11.06.23:993][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.06.10-11.06.24:127][  0]LogPackageName: SearchForPackageOnDisk took   0.134s, but failed to resolve FX_Meshes.
+[2018.06.10-11.06.24:127][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.06.10-11.06.30:318][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [60.343029ms] /Game/ParagonShinbi/Characters/Heroes/Shinbi/Meshes/Shinbi.Shinbi
+[2018.06.10-11.06.30:573][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [68.937561ms] /Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Meshes/KwangFrostwalker.KwangFrostwalker
+[2018.06.10-11.06.32:302][  0]LogAIModule: Creating AISystem for world battle
+[2018.06.10-11.06.32:347][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.10-11.06.32:419][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.10-11.06.32:630][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 211.065ms.
+[2018.06.10-11.06.32:631][  0]LogFileHelpers: Loading map 'battle' took 35.969
+[2018.06.10-11.06.32:714][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.10-11.06.32:896][  0]LogCollectionManager: Loaded 0 collections in 0.002043 seconds
+[2018.06.10-11.06.32:976][  0]LogFileCache: Scanning file cache for directory 'E:/faker/final/main/Saved/Collections/' took 0.01s
+[2018.06.10-11.06.32:976][  0]LogFileCache: Scanning file cache for directory 'E:/faker/final/main/Content/Developers/master/Collections/' took 0.01s
+[2018.06.10-11.06.32:976][  0]LogFileCache: Scanning file cache for directory 'E:/faker/final/main/Content/Collections/' took 0.01s
+[2018.06.10-11.06.32:976][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.10-11.06.33:000][  0]LogContentBrowser: Native class hierarchy populated in 0.0221 seconds. Added 2454 classes and 560 folders.
+[2018.06.10-11.06.33:019][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.06.10-11.06.33:517][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.10-11.06.33:531][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.06.10-11.06.33:942][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.10-11.06.33:942][  0]LogLoad: (Engine Initialization) Total time: 77.19 seconds
+[2018.06.10-11.06.33:942][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.10-11.06.33:988][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.06.10-11.06.33:998][  0]LogSlate: Took 0.005466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.10-11.06.34:023][  0]LogSlate: Took 0.024177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.06.10-11.06.34:051][  0]LogSlate: Took 0.027359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2018.06.10-11.06.34:056][  0]LogSlate: Took 0.004940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.10-11.06.34:067][  0]LogSlate: Took 0.006342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.10-11.06.34:337][  0]LogSlate: Took 0.008021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-11.06.34:408][  1]LogRenderer: Reallocating scene render targets to support 956x436 Format 9 NumSamples 1 (Frame:1).
+[2018.06.10-11.06.34:615][  2]LogAssetRegistry: Asset discovery search completed in 58.7158 seconds
+[2018.06.10-11.06.34:619][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.10-11.06.34:619][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2018.06.10-11.08.59:961][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock25)
+[2018.06.10-11.09.06:426][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock_SpireLOD35)
+[2018.06.10-11.12.18:305][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-11.12.18:438][662]MapCheck: New page: 맵 체크
+[2018.06.10-11.12.18:463][662]Cmd: MAP REBUILD ALLVISIBLE
+[2018.06.10-11.12.18:463][662]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.06.10-11.12.19:013][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.06.10-11.12.19:023][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2018.06.10-11.12.19:029][662]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-11.12.19:029][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_LargeRock, compiling. 
+[2018.06.10-11.12.19:036][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_Cliff1, compiling. 
+[2018.06.10-11.12.19:045][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_Ocean, compiling. 
+[2018.06.10-11.12.19:062][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_GroundBrick, compiling. 
+[2018.06.10-11.12.19:075][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_FloorTrims, compiling. 
+[2018.06.10-11.12.19:088][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_Floors_Block, compiling. 
+[2018.06.10-11.12.19:099][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_Pillars, compiling. 
+[2018.06.10-11.12.19:109][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_Man_Statue, compiling. 
+[2018.06.10-11.12.19:123][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_Pillars02, compiling. 
+[2018.06.10-11.12.19:132][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PLains_Castle_WroughtIron, compiling. 
+[2018.06.10-11.12.19:140][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plains_Angel_Statue, compiling. 
+[2018.06.10-11.12.19:148][662]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.10-11.12.19:148][662]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-11.12.19:148][662]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-11.12.19:148][662]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.06.10-11.12.22:072][662]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-11.12.22:073][662]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-11.12.22:073][662]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-11.12.22:073][662]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-11.12.22:073][662]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-11.12.22:073][662]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-11.12.22:073][662]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-11.12.22:073][662]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-11.12.22:073][662]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-11.12.22:073][662]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-11.12.22:073][662]TextureStreamingBuild: Display: Compiling optional shaders took 3.066 seconds.
+[2018.06.10-11.12.22:172][662]LogLevel: Display: Export Material TexCoord Scales took 0.099 seconds.
+[2018.06.10-11.12.22:210][662]TextureStreamingBuild: Display: Build Texture Streaming took 0.037 seconds.
+[2018.06.10-11.12.22:237][662]LightingResults: New page: 라이팅 빌드 - 2018. 6. 11. 오전 5:12:22
+[2018.06.10-11.12.22:381][662]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.06.10-11.12.22:557][662]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.06.10-11.12.22:585][662]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.06.10-11.12.24:163][662]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.06.10-11.12.24:163][662]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12416
+[2018.06.10-11.12.26:386][662]LightingResults: Warning: 설정된 임포턴스 볼륨이 없는데다 씬이 꽤 커서 자동 합성된 볼륨으로는 괜찮은 결과가 나지 않을 것입니다. 씬의 퀄리티와 라이팅 빌드 시간 최적화를 위해 라이트매스 임포턴스 볼륨을 꼭 맞게 추가해 주시기 바랍니다.
+[2018.06.10-11.12.26:387][662]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.06.10-11.12.26:387][662]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.06.10-11.12.26:388][662]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.06.10-11.12.26:388][662]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.06.10-11.12.26:388][662]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.06.10-11.12.26:625][662]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.06.10-11.12.26:625][662]MapCheck: New page: battle - 2018. 6. 11. 오전 5:12:26
+[2018.06.10-11.12.26:626][662]MapCheck: Error: WorldSettings_1 맵 라이팅을 리빌드해야 합니다. 
+[2018.06.10-11.12.26:627][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD8 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:627][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD9 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:628][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD11 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:628][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD12 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:628][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD13 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:629][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD14 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:629][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD15 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:629][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD16 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:629][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD17 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:629][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD20 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:632][662]MapCheck: Warning: SM_Plains_Floors_Rubble3 SM_Plains_Floors_Rubble3 위치가 SM_Plains_Floors_Rubble4 위치와 같습니다. 
+[2018.06.10-11.12.26:632][662]MapCheck: Warning: SM_Plains_Floors_Rubble4 SM_Plains_Floors_Rubble4 위치가 SM_Plains_Floors_Rubble3 위치와 같습니다. 
+[2018.06.10-11.12.26:632][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD21 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:632][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD22 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:632][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD23 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:632][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD24 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:633][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD25 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:633][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD26 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:633][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD27 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:633][662]MapCheck: Warning: SM_Buttercup_Patch_01_309 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:633][662]MapCheck: Warning: SM_Buttercup_Patch_01_309 SM_Buttercup_Patch_01_309 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:633][662]MapCheck: Warning: SM_FieldScabious_01_312 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:633][662]MapCheck: Warning: SM_FieldScabious_01_312 SM_FieldScabious_01_312 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_317 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_317 SM_FieldScabious_317 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_3 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_3 SM_FieldScabious_3 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_4 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_4 SM_FieldScabious_4 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_5 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_5 SM_FieldScabious_5 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_6 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_6 SM_FieldScabious_6 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_7 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldScabious_7 SM_FieldScabious_7 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_Heather_Mesh_Clumps2_328 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_Heather_Mesh_Clumps2_328 SM_Heather_Mesh_Clumps2_328 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_Heather_Mesh_Clumps2_WorldPopulate_331 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_Heather_Mesh_Clumps2_WorldPopulate_331 SM_Heather_Mesh_Clumps2_WorldPopulate_331 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:634][662]MapCheck: Warning: SM_FieldGrass_01_335 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:635][662]MapCheck: Warning: SM_FieldGrass_01_335 SM_FieldGrass_01_335 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:635][662]MapCheck: Warning: SM_FieldGrass_2 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:635][662]MapCheck: Warning: SM_FieldGrass_2 SM_FieldGrass_2 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:635][662]MapCheck: Warning: SM_FieldGrass_3 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:635][662]MapCheck: Warning: SM_FieldGrass_3 SM_FieldGrass_3 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.12.26:635][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD29 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:635][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD30 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:635][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD31_8 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:635][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD32 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:636][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD34_13 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:636][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD35 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:637][662]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD36 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.12.26:851][662]MapCheck: 맵 체크 완료: 오류 1 회, 경고 52 회, 소요 시간 225.562ms.
+[2018.06.10-11.12.26:874][662]LogEditorBuildUtils: Build time 0:08
+[2018.06.10-11.14.15:087][554]Job is a success!
+[2018.06.10-11.14.15:139][555]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-11.14.15:675][555]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.363s
+[2018.06.10-11.14.15:675][555]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.06.10-11.14.15:675][555]LogVolumetricLightmapImport:      BrickData 1280x30x5 = 7.5Mb (trimmed 14.4Mb due to 0.010000 MinBrickError)
+[2018.06.10-11.14.15:675][555]LogVolumetricLightmapImport:      Bricks at Level
+[2018.06.10-11.14.15:675][555]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2018.06.10-11.14.15:675][555]LogVolumetricLightmapImport:          1: 22.1% covering 58.0% of volume
+[2018.06.10-11.14.15:675][555]LogVolumetricLightmapImport:          2: 77.3% covering 3.2% of volume
+[2018.06.10-11.14.18:326][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:326][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.06.10-11.14.18:326][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:326][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:326][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:326][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.06.10-11.14.18:326][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_3 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:326][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_7 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_8 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:327][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_9 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_10 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_11 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_12 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_13 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_13 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_13 (DXT1, 128X128)
+[2018.06.10-11.14.18:328][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_15 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_16 (AutoDXT, 512X256)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_16 (AutoDXT, 512X512)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_16 (DXT1, 512X512)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_18 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_19 (AutoDXT, 512X256)
+[2018.06.10-11.14.18:329][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_19 (AutoDXT, 512X512)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_19 (DXT1, 512X512)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_20 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_22 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_22 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_22 (DXT1, 256X256)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_23 (AutoDXT, 512X256)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_23 (AutoDXT, 512X512)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_23 (DXT1, 512X512)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_24 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_24 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_24 (DXT1, 256X256)
+[2018.06.10-11.14.18:330][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_25 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_25 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_25 (DXT1, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_26 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_27 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_27 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_27 (DXT1, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_28 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_28 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_28 (DXT1, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_29 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_29 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_29 (DXT1, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_30 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:331][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_31 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_31 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_31 (DXT1, 256X256)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_32 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_33 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_33 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_33 (DXT1, 128X128)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_34 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_34 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_34 (DXT1, 128X128)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_35 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_35 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_35 (DXT1, 128X128)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_36 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:332][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_36 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_36 (DXT1, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_37 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_37 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_37 (DXT1, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_38 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_38 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_38 (DXT1, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_39 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_39 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_39 (DXT1, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_40 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_40 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_40 (DXT1, 128X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_41 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_41 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_41 (DXT1, 256X256)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_42 (AutoDXT, 256X128)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_42 (AutoDXT, 256X256)
+[2018.06.10-11.14.18:333][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_42 (DXT1, 256X256)
+[2018.06.10-11.14.18:334][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_43 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:334][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_43 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:334][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_43 (DXT1, 128X128)
+[2018.06.10-11.14.18:334][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_44 (AutoDXT, 128X64)
+[2018.06.10-11.14.18:334][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_44 (AutoDXT, 128X128)
+[2018.06.10-11.14.18:334][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_44 (DXT1, 128X128)
+[2018.06.10-11.14.18:334][555]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_45 (AutoDXT, 64X32)
+[2018.06.10-11.14.18:334][555]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_45 (AutoDXT, 64X64)
+[2018.06.10-11.14.18:334][555]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_45 (DXT1, 64X64)
+[2018.06.10-11.14.18:859][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_45 (BGRA8, 64X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_46 (BGRA8, 128X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_48 (BGRA8, 64X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_50 (BGRA8, 64X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_44 (BGRA8, 256X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_49 (BGRA8, 128X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_51 (BGRA8, 128X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_53 (BGRA8, 64X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_54 (BGRA8, 64X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_52 (BGRA8, 128X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_55 (BGRA8, 64X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_58 (BGRA8, 64X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_47 (BGRA8, 512X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_61 (BGRA8, 64X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_62 (BGRA8, 64X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_57 (BGRA8, 512X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_56 (BGRA8, 512X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_63 (BGRA8, 512X64)
+[2018.06.10-11.14.18:860][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_66 (BGRA8, 64X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_67 (BGRA8, 64X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_68 (BGRA8, 64X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_69 (BGRA8, 64X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_60 (BGRA8, 1024X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_59 (BGRA8, 1024X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_70 (BGRA8, 64X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_64 (BGRA8, 512X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_71 (BGRA8, 64X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_65 (BGRA8, 512X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_76 (BGRA8, 64X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_77 (BGRA8, 64X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_74 (BGRA8, 256X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_72 (BGRA8, 128X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_43 (BGRA8, 1024X128)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_75 (BGRA8, 256X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_78 (BGRA8, 128X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_80 (BGRA8, 64X64)
+[2018.06.10-11.14.18:861][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_81 (BGRA8, 64X64)
+[2018.06.10-11.14.18:862][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_73 (BGRA8, 256X64)
+[2018.06.10-11.14.18:862][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_83 (BGRA8, 64X64)
+[2018.06.10-11.14.18:862][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_82 (BGRA8, 64X64)
+[2018.06.10-11.14.18:862][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_79 (BGRA8, 64X64)
+[2018.06.10-11.14.18:862][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_88 (BGRA8, 32X32)
+[2018.06.10-11.14.18:862][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_87 (BGRA8, 64X64)
+[2018.06.10-11.14.18:862][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_86 (BGRA8, 64X64)
+[2018.06.10-11.14.18:862][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_85 (BGRA8, 128X64)
+[2018.06.10-11.14.18:862][555]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_84 (BGRA8, 512X64)
+[2018.06.10-11.14.19:009][555]Lightmass on DESKTOP-UOVD1FB: 1:50 min total, 1.07 sec importing, 424 ms setup, 14.9 sec photons, 1:33 min processing, 0 ms extra exporting [165/165 mappings]. Threads: 10:56 min total, 3:34 min processing.
+[2018.06.10-11.14.19:167][555]LogStaticLightingSystem: Illumination: 1:56 min (2.50 sec encoding lightmaps, 523 ms encoding shadowmaps)
+[2018.06.10-11.14.19:167][555]LogStaticLightingSystem: Lightmap texture memory:  5.7 MB (5.7 MB streaming, 0.0 MB non-streaming), 90 textures
+[2018.06.10-11.14.19:167][555]LogStaticLightingSystem: Shadowmap texture memory: 3.6 MB (3.6 MB streaming, 0.0 MB non-streaming), 46 textures
+[2018.06.10-11.14.24:456][555]DumpUnbuiltLightIteractions
+[2018.06.10-11.14.24:456][555]Lights with unbuilt interactions: 0
+[2018.06.10-11.14.24:456][555]
+[2018.06.10-11.14.24:457][555]Primitives with unbuilt interactions: 0
+[2018.06.10-11.14.24:637][556]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.06.10-11.14.24:637][556]MapCheck: New page: battle - 2018. 6. 11. 오전 5:14:24
+[2018.06.10-11.14.24:638][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD8 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:639][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD9 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:639][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD11 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:639][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD12 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:640][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD13 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:640][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD14 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:641][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD15 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:641][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD16 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:641][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD17 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:641][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD20 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:643][556]MapCheck: Warning: SM_Plains_Floors_Rubble3 SM_Plains_Floors_Rubble3 위치가 SM_Plains_Floors_Rubble4 위치와 같습니다. 
+[2018.06.10-11.14.24:643][556]MapCheck: Warning: SM_Plains_Floors_Rubble4 SM_Plains_Floors_Rubble4 위치가 SM_Plains_Floors_Rubble3 위치와 같습니다. 
+[2018.06.10-11.14.24:643][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD21 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:643][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD22 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:643][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD23 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:643][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD24 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:643][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD25 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:643][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD26 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:643][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD27 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_Buttercup_Patch_01_309 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_Buttercup_Patch_01_309 SM_Buttercup_Patch_01_309 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_01_312 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_01_312 SM_FieldScabious_01_312 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_317 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_317 SM_FieldScabious_317 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_3 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_3 SM_FieldScabious_3 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_4 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_4 SM_FieldScabious_4 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_5 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_5 SM_FieldScabious_5 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_6 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_6 SM_FieldScabious_6 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:644][556]MapCheck: Warning: SM_FieldScabious_7 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_FieldScabious_7 SM_FieldScabious_7 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_Heather_Mesh_Clumps2_328 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_Heather_Mesh_Clumps2_328 SM_Heather_Mesh_Clumps2_328 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_Heather_Mesh_Clumps2_WorldPopulate_331 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_Heather_Mesh_Clumps2_WorldPopulate_331 SM_Heather_Mesh_Clumps2_WorldPopulate_331 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_FieldGrass_01_335 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_FieldGrass_01_335 SM_FieldGrass_01_335 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_FieldGrass_2 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_FieldGrass_2 SM_FieldGrass_2 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_FieldGrass_3 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_FieldGrass_3 SM_FieldGrass_3 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD29 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD30 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD31_8 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:645][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD32 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:646][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD34_13 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:646][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD35 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:646][556]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD36 콜리전이 켜져있으나 (SM_Plains_LargeRock_SpireLOD4) 스태틱 메시에 단순 또는 복합 콜리전이 없습니다. 
+[2018.06.10-11.14.24:826][556]MapCheck: 맵 체크 완료: 오류 0 회, 경고 52 회, 소요 시간 188.159ms.
+[2018.06.10-11.14.42:302][512]LogSlate: Window '메시지 로그' being destroyed
+[2018.06.10-11.14.42:311][512]LogSlate: Window '메시지 로그' being destroyed
+[2018.06.10-11.15.22:158][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock_SpireLOD15)
+[2018.06.10-11.15.29:911][172]Cmd: TRANSACTION UNDO
+[2018.06.10-11.15.29:911][172]LogEditorTransaction: Undo 액터 이동
+[2018.06.10-11.15.41:762][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-11.15.43:051][816]LogSlate: Window '콘텐츠 저장' being destroyed
+[2018.06.10-11.15.43:260][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battle/battle" FILE="E:/faker/final/main/Content/Battle/battle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.10-11.15.43:724][816]LogSavePackage: Save=428.24ms
+[2018.06.10-11.15.43:724][816]LogSavePackage: Moving 'E:/faker/final/main/Saved/battle00CEDC86417F331DCE52EDAA1E97083E.tmp' to 'E:/faker/final/main/Content/Battle/battle.umap'
+[2018.06.10-11.15.43:730][816]LogSavePackage: Display: Finished SavePackage E:/faker/final/main/Content/Battle/battle.umap
+[2018.06.10-11.15.43:768][816]LogFileHelpers: Saving map 'battle' took 0.694
+[2018.06.10-11.15.43:772][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battle/battle_BuiltData" FILE="E:/faker/final/main/Content/Battle/battle_BuiltData.uasset" SILENT=true
+[2018.06.10-11.15.44:868][816]LogSavePackage: Save=845.31ms
+[2018.06.10-11.15.44:868][816]LogSavePackage: Moving 'E:/faker/final/main/Saved/battle_BuiltData21254D484DE7094AC793AAA9C12C3841.tmp' to 'E:/faker/final/main/Content/Battle/battle_BuiltData.uasset'
+[2018.06.10-11.15.44:874][816]LogSavePackage: Display: Finished SavePackage E:/faker/final/main/Content/Battle/battle_BuiltData.uasset
+[2018.06.10-11.47.36:788][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-11.47.54:017][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.08.31:411][984]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.06.10-12.08.31:504][985]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.06.10-12.09.06:662][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\master\Desktop\shild.png)
+[2018.06.10-12.09.06:722][ 70]LogTexture: Display: 텍스처 빌드: shild (BGRA8, 400X351)
+[2018.06.10-12.09.17:398][422]LogLinker: Warning: '/Game/NewFolder/my_magic_circle_1_edit__by_hoyeechun-d4gj74y' 파일을 찾을 수 없습니다.
+[2018.06.10-12.09.17:401][422]LogLinker: Warning: E:/faker/final/main/Content/sinyoung/new/magic.uasset 로드중 '/Game/NewFolder/my_magic_circle_1_edit__by_hoyeechun-d4gj74y' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.10-12.09.17:402][422]LoadErrors: Error: /Game/sinyoung/new/magic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/NewFolder/my_magic_circle_1_edit__by_hoyeechun-d4gj74y
+[2018.06.10-12.09.17:402][422]LogLinker: Warning: '/Game/NewFolder/my_magic_circle_1_edit__by_hoyeechun-d4gj74y' 파일을 찾을 수 없습니다.
+[2018.06.10-12.09.17:402][422]LogLinker: Warning: E:/faker/final/main/Content/sinyoung/new/magic.uasset 로드중 '/Game/NewFolder/my_magic_circle_1_edit__by_hoyeechun-d4gj74y' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.10-12.09.17:410][422]LogLinker: Warning: '/Game/NewFolder/my_magic_circle_1_edit__by_hoyeechun-d4gj74y' 파일을 찾을 수 없습니다.
+[2018.06.10-12.09.17:411][422]LoadErrors: 로드에 실패했습니다. /Game/NewFolder/my_magic_circle_1_edit__by_hoyeechun-d4gj74y.my_magic_circle_1_edit__by_hoyeechun-d4gj74y 레퍼런싱한 것: MaterialExpressionTextureSample_0
+[2018.06.10-12.09.17:411][422]LogLinker: Warning: NULL 로드중 '/Game/NewFolder/my_magic_circle_1_edit__by_hoyeechun-d4gj74y' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.10-12.09.17:421][422]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.09.17:426][422]LogMaterial: Warning: E:\faker\final\main\Content\sinyoung\new\magic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.09.17:426][422]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.09.17:460][422]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.09.17:462][422]LogMaterial: Warning: /Engine/Transient.magic (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.09.17:462][422]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.09.18:742][422]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.09.18:744][422]LogMaterial: Warning: /Engine/Transient.magic (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.09.18:744][422]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.09.18:756][422]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.09.18:758][422]LogMaterial: Warning: /Engine/Transient.magic (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.09.18:758][422]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.09.18:799][422]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.09.18:822][422]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.09.18:866][422]LogSlate: Took 0.017463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.10-12.09.19:660][425]LogSlate: Took 0.019763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.10-12.09.46:042][ 84]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.09.46:090][ 84]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.09.46:090][ 84]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.09.46:090][ 84]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.09.46:090][ 84]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.09.46:096][ 84]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.09.46:135][ 84]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.09.48:113][111]LogMaterialEditor: Saving and Compiling material magic
+[2018.06.10-12.09.54:254][111]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.09.54:254][111]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.09.54:254][111]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.09.54:254][111]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.09.54:254][111]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.09.54:254][111]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.09.54:254][111]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.09.54:254][111]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.09.54:254][111]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.09.54:255][111]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.09.54:292][111]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.09.54:342][111]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.09.54:342][111]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.09.54:342][111]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.09.54:342][111]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.09.54:428][111]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.09.54:507][111]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.09.54:650][111]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy magic, compiling. 
+[2018.06.10-12.09.56:877][111]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.10-12.09.56:878][111]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.10-12.09.56:878][111]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.10-12.09.56:878][111]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.10-12.09.56:878][111]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.10-12.09.56:878][111]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.10-12.09.56:878][111]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.10-12.09.56:878][111]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.09.56:882][111]TextureStreamingBuild: Display: Compiling optional shaders took 2.252 seconds.
+[2018.06.10-12.10.04:651][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sinyoung/new/magic" FILE="E:/faker/final/main/Content/sinyoung/new/magic.uasset" SILENT=true
+[2018.06.10-12.10.04:774][111]LogSavePackage: Save=53.74ms
+[2018.06.10-12.10.04:774][111]LogSavePackage: Moving 'E:/faker/final/main/Saved/magic45BA13BD4236F7F4CED74B99ECEF2A87.tmp' to 'E:/faker/final/main/Content/sinyoung/new/magic.uasset'
+[2018.06.10-12.10.04:810][111]LogSavePackage: Display: Finished SavePackage E:/faker/final/main/Content/sinyoung/new/magic.uasset
+[2018.06.10-12.10.04:823][111]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.10.04:823][111]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.10.04:823][111]MaterialEditorStats: Texture samplers: 7/16
+[2018.06.10-12.10.04:823][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.10.05:047][112]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Battle/battle' took 0.052
+[2018.06.10-12.10.05:067][112]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/sinyoung/new/shild] ([1] browsable assets)...
+[2018.06.10-12.10.05:082][112]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/sinyoung/new/shild.shild]
+[2018.06.10-12.10.05:082][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/sinyoung/new/shild]
+[2018.06.10-12.10.05:082][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sinyoung/new/shild" FILE="E:/faker/final/main/Saved/Autosaves/Game/sinyoung/new/shild_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.06.10-12.10.05:121][112]LogSavePackage: Save=34.04ms
+[2018.06.10-12.10.05:121][112]LogSavePackage: Moving 'E:/faker/final/main/Saved/shild_Auto14E31DF8D49CF8705AA86E1AA55E9BE80.tmp' to 'E:/faker/final/main/Saved/Autosaves/Game/sinyoung/new/shild_Auto1.uasset'
+[2018.06.10-12.10.05:122][112]LogSavePackage: Display: Finished SavePackage E:/faker/final/main/Saved/Autosaves/Game/sinyoung/new/shild_Auto1.uasset
+[2018.06.10-12.10.05:122][112]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.06.10-12.10.15:072][410]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.15:396][410]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.15:426][410]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.15:454][410]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.10-12.10.15:454][410]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.10-12.10.15:454][410]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.10-12.10.15:454][410]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.10-12.10.17:951][427]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.10-12.10.17:951][427]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.10-12.10.17:951][427]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.10.17:951][427]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.10.17:951][427]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.18:166][430]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.18:229][431]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.18:944][443]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.19:296][448]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.10-12.10.19:583][453]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.10-12.10.20:315][468]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.10-12.10.20:794][476]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.10-12.10.20:794][476]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.10-12.10.20:967][479]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.10-12.10.21:563][488]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.21:609][488]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.10-12.10.21:859][492]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.10-12.10.21:970][494]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.10-12.10.22:116][497]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.10-12.10.22:726][509]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.22:826][509]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.22:876][509]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.22:991][510]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.10-12.10.23:250][513]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.10-12.10.23:250][513]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.10-12.10.23:455][516]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.10-12.10.23:585][518]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.23:905][521]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.10-12.10.24:283][529]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.10-12.10.24:439][532]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.10-12.10.24:584][535]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.10-12.10.24:926][542]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.10-12.10.25:067][545]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.10-12.10.25:399][551]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.25:465][551]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.25:491][551]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.25:664][552]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.25:721][553]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.26:447][564]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.26:769][567]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.10.27:022][570]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.10.27:107][571]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.10.27:700][572]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.10.27:753][573]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.10.30:008][599]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.30:026][599]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.30:026][599]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.30:026][599]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.30:032][599]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.10.30:078][599]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.10.31:273][611]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.31:335][612]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.31:529][615]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.10.32:167][623]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.10.32:584][626]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.10.33:237][636]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.10.33:378][638]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.10.34:713][660]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.34:730][660]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.34:731][660]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.35:088][664]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.35:793][674]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.10.36:021][678]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.10.36:327][684]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.10.36:991][692]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.10.37:429][699]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.10.40:589][757]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.06.10-12.10.40:589][757]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.06.10-12.10.40:589][757]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.10.41:100][766]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.41:200][767]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.41:200][767]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.41:201][767]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.41:201][767]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.10.42:385][784]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.10.42:466][785]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.10.42:691][788]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.10.42:762][789]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.10.43:378][797]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.44:334][808]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.44:848][813]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.45:154][816]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.45:604][821]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.10.46:151][828]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.10.47:170][840]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.10.47:369][842]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.10.48:395][853]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.10.50:905][884]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.50:924][884]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.50:924][884]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.50:924][884]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.52:197][896]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.10.52:197][896]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.10.52:584][900]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.10.53:305][910]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.10.53:642][915]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.53:757][916]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.54:691][925]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.54:753][926]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.55:056][930]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.10.55:197][932]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.55:239][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.10.56:068][942]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.56:087][942]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.10.56:419][946]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.10.56:898][952]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.57:691][963]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.10.57:878][965]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.10.57:879][965]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.10.58:437][973]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.10.58:621][976]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.10.58:785][979]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.10.58:846][980]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.11.00:617][  4]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.11.00:709][  5]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.11.00:752][  5]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.11.00:789][  5]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.11.00:983][  8]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.11.01:289][ 12]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.11.02:151][ 26]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.11.02:167][ 26]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.11.02:187][ 26]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.11.02:938][ 34]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.11.03:827][ 48]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.11.03:852][ 48]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.11.04:737][ 61]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.11.04:970][ 64]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.11.05:243][ 67]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.11.06:117][ 80]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.11.06:826][ 88]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.11.06:827][ 88]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.11.06:879][ 89]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2018.06.10-12.11.09:727][ 89]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.11.09:766][ 89]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.11.09:813][ 89]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.11.09:813][ 89]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.11.09:813][ 89]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.11.09:813][ 89]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.11.09:875][ 89]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.11.09:927][ 89]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.11.10:045][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.06.10-12.11.12:495][ 89]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.10-12.11.12:495][ 89]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.10-12.11.12:496][ 89]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.10-12.11.12:496][ 89]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.10-12.11.12:496][ 89]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.10-12.11.12:496][ 89]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.10-12.11.12:496][ 89]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.11.12:501][ 89]TextureStreamingBuild: Display: Compiling optional shaders took 2.473 seconds.
+[2018.06.10-12.11.18:834][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sinyoung/new/NewMaterial" FILE="E:/faker/final/main/Content/sinyoung/new/NewMaterial.uasset" SILENT=true
+[2018.06.10-12.11.18:878][ 89]LogSavePackage: Save=39.32ms
+[2018.06.10-12.11.18:878][ 89]LogSavePackage: Moving 'E:/faker/final/main/Saved/NewMaterial8C7BE96C437CECB99865C59EF7F81340.tmp' to 'E:/faker/final/main/Content/sinyoung/new/NewMaterial.uasset'
+[2018.06.10-12.11.18:885][ 89]LogSavePackage: Display: Finished SavePackage E:/faker/final/main/Content/sinyoung/new/NewMaterial.uasset
+[2018.06.10-12.11.18:911][ 89]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.11.18:911][ 89]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.11.18:911][ 89]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.11.18:912][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.11.33:359][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.11.33:449][328]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.11.33:527][329]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.11.33:528][329]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.11.33:528][329]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.11.33:528][329]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.11.34:696][345]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.11.35:107][351]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.11.36:974][377]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.11.37:598][386]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.11.56:959][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.11.58:403][777]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.11.58:419][777]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.11.58:419][777]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.11.58:419][777]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.11.58:419][777]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.11.58:431][777]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.11.59:664][795]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.12.00:026][800]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.12.02:072][827]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.12.02:072][827]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.12.02:220][829]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.12.02:341][831]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.12.06:187][887]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.12.06:187][887]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.12.06:187][887]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.12.06:187][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.12.10:610][976]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.12.10:695][977]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.12.10:695][977]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.12.10:695][977]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.12.10:695][977]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.12.12:057][998]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.12.12:058][998]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.12.12:291][  1]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.12.12:344][  2]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.12.16:815][ 68]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.12.16:816][ 68]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.12.16:816][ 68]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.12.16:816][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.12.24:570][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.12.24:682][221]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.12.24:764][222]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.12.24:764][222]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.12.24:764][222]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.12.24:765][222]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.12.25:963][237]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.12.26:267][241]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.12.26:340][242]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.12.26:610][245]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.12.30:665][308]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.12.30:666][308]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.12.30:666][308]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.12.30:666][308]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.12.40:950][511]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.12.40:974][511]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.12.40:974][511]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.12.40:974][511]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.12.40:974][511]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.12.40:981][511]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.12.41:914][523]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.12.41:965][524]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.12.42:158][527]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.12.42:641][536]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.12.42:997][540]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.12.44:168][556]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.12.44:168][556]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.12.45:499][575]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.12.45:579][576]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.12.45:638][577]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.12.46:525][591]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.12.47:295][602]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.12.47:754][608]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.12.48:067][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.12.51:799][676]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.12.51:799][676]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.12.51:799][676]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.12.51:799][676]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.12.53:847][719]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.12.53:916][720]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.12.53:916][720]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.12.53:916][720]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.12.53:916][720]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.12.55:115][737]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.12.55:215][739]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.12.55:392][742]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.12.55:721][748]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.12.55:762][748]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.12.56:796][762]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.12.56:850][763]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.12.57:182][768]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.12.58:055][782]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.12.58:244][785]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.12.59:288][800]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.12.59:405][802]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.12.59:504][803]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.13.00:352][815]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.13.00:874][823]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.13.00:875][823]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.13.01:985][839]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.13.02:132][841]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.13.02:184][842]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.13.03:328][858]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.13.03:518][861]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.13.03:597][862]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.13.04:561][878]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.13.05:286][888]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.13.08:867][950]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.13.08:867][950]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.13.08:867][950]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.13.08:867][950]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.17.18:052][  1]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.10-12.17.19:890][  1]LogSlate: Window '메시지' being destroyed
+[2018.06.10-12.17.21:560][  1]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.17.21:607][  1]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.17.21:607][  1]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.17.21:607][  1]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.17.21:607][  1]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.17.21:647][  1]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.17.21:684][  1]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.17.21:779][  1]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.06.10-12.17.25:016][  1]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.10-12.17.25:017][  1]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.10-12.17.25:017][  1]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.10-12.17.25:017][  1]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.10-12.17.25:017][  1]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.10-12.17.25:017][  1]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.10-12.17.25:017][  1]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.17.25:020][  1]TextureStreamingBuild: Display: Compiling optional shaders took 3.258 seconds.
+[2018.06.10-12.17.25:079][  1]LogSlate: Window 'NewMaterial*' being destroyed
+[2018.06.10-12.18.19:274][  1]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.19:275][  1]LogMaterial: Warning: E:\faker\final\main\Content\sinyoung\new\NewMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.18.19:275][  1]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.19:276][  1]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2018.06.10-12.18.19:285][  1]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.19:287][  1]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.18.19:287][  1]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.19:290][  1]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.19:292][  1]LogMaterial: Warning: E:\faker\final\main\Content\sinyoung\new\NewMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.18.19:292][  1]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.24:424][ 96]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\master\Desktop\shild.png)
+[2018.06.10-12.18.24:454][ 96]LogTexture: Display: 텍스처 빌드: shild (BGRA8, 400X351)
+[2018.06.10-12.18.27:883][203]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.27:884][203]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.18.27:885][203]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.28:122][203]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.28:123][203]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.18.28:123][203]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.28:130][203]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.28:131][203]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.18.28:131][203]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.28:169][203]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.18.28:175][203]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.39:274][475]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.39:276][475]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.18.39:277][475]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.42:124][552]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.42:235][553]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.18.42:235][553]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.18.42:235][553]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.18.42:235][553]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.18.45:378][611]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.18.45:548][614]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.18.45:771][618]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.18.45:875][620]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.18.48:488][667]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.48:491][667]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.18.48:492][667]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.48:500][667]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.52:159][765]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.52:160][765]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.10-12.18.52:160][765]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.06.10-12.18.59:914][932]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.18.59:950][932]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.10-12.18.59:950][932]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.10-12.18.59:950][932]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.10-12.18.59:950][932]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.18.59:950][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.18.59:984][932]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.19.00:828][944]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.10-12.19.00:828][944]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.10-12.19.01:207][951]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.10-12.19.01:262][952]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.10-12.19.02:061][963]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.10-12.19.02:061][963]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.19.02:161][965]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.19.02:469][966]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.19.02:998][974]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.19.03:093][976]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.19.03:287][977]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.19.03:370][978]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.19.05:345][982]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.19.05:346][982]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.19.05:346][982]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.19.07:617][ 17]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2018.06.10-12.19.07:617][ 17]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.19.07:618][ 17]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.19.07:618][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.19.14:881][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.19.17:261][221]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.19.17:626][221]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.19.17:638][221]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.19.17:638][221]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.19.17:638][221]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.19.17:638][221]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.19.17:701][221]LogMaterial: Missing cached shader map for material magic, compiling. 
+[2018.06.10-12.19.17:813][221]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.19.18:488][226]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.19.18:488][226]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.19.18:778][231]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.19.19:241][240]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.19.19:294][241]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.19.19:392][243]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.19.19:828][251]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.19.20:198][257]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.19.20:958][269]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.19.21:358][277]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.19.23:273][313]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.19.23:273][313]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.19.23:273][313]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.19.23:273][313]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.19.28:839][437]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.19.28:909][438]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.19.28:909][438]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.19.28:910][438]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.19.28:910][438]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.19.29:695][452]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.19.29:759][453]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.19.30:014][458]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.19.30:809][472]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.19.32:406][506]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.19.32:422][506]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.19.32:422][506]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.19.32:422][506]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.19.33:158][519]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.19.33:212][520]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.19.33:341][522]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.19.33:676][528]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.19.34:114][536]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.19.34:380][542]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.19.34:420][542]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.10-12.19.34:724][545]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.19.34:859][547]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.19.35:373][555]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.19.35:580][558]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.19.35:580][558]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.19.36:282][572]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.19.36:648][577]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.10-12.19.36:799][578]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.10-12.19.37:272][586]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.19.37:687][593]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.19.37:999][598]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.19.38:000][598]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.19.38:179][599]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.10-12.19.38:911][610]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.10-12.19.39:165][614]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.10-12.19.39:165][614]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.19.42:146][670]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.19.42:147][670]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.19.42:147][670]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.10-12.19.42:147][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.19.47:118][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.19.47:231][784]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2018.06.10-12.19.50:294][784]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.19.50:338][784]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.19.50:339][784]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.19.50:339][784]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.19.50:339][784]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.19.50:390][784]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.19.50:430][784]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.19.50:645][784]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.06.10-12.19.52:560][784]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.10-12.19.52:560][784]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.10-12.19.52:560][784]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.10-12.19.52:560][784]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.10-12.19.52:560][784]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.10-12.19.52:560][784]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.10-12.19.52:560][784]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.10-12.19.52:572][784]TextureStreamingBuild: Display: Compiling optional shaders took 1.946 seconds.
+[2018.06.10-12.19.57:046][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sinyoung/new/NewMaterial" FILE="E:/faker/final/main/Content/sinyoung/new/NewMaterial.uasset" SILENT=true
+[2018.06.10-12.19.57:209][784]LogSavePackage: Save=49.06ms
+[2018.06.10-12.19.57:209][784]LogSavePackage: Moving 'E:/faker/final/main/Saved/NewMaterial6BAA2EA0462B54F88B623892EF968C8B.tmp' to 'E:/faker/final/main/Content/sinyoung/new/NewMaterial.uasset'
+[2018.06.10-12.19.57:218][784]LogSavePackage: Display: Finished SavePackage E:/faker/final/main/Content/sinyoung/new/NewMaterial.uasset
+[2018.06.10-12.20.15:011][442]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0539 seconds. Added 2 classes and 2 folders.
+[2018.06.10-12.20.18:507][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.20.25:251][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-12.20.36:070][868]LogMaterial: Warning: Material /Game/sinyoung/new/NewMaterial.NewMaterial needed to have new flag set bUsedWithParticleSprites !
+[2018.06.10-12.20.36:075][868]LogMaterial: Warning: Material /Engine/Transient.NewMaterial needed to have new flag set bUsedWithParticleSprites !
+[2018.06.10-12.20.36:082][868]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.20.36:115][868]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.10-12.20.36:115][868]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.20.36:116][868]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.10-12.20.36:116][868]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.10-12.20.36:116][868]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.06.10-12.20.38:642][914]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.10-12.20.38:748][916]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.10-12.20.38:748][916]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.10-12.20.39:005][920]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.10-12.20.40:480][940]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.10-12.20.40:743][943]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.10-12.20.40:833][944]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.10-12.20.49:323][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.20.54:938][166]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-12.20.57:367][201]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2018.06.10-12.20.57:439][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sinyoung/new/NewMaterial" FILE="E:/faker/final/main/Content/sinyoung/new/NewMaterial.uasset" SILENT=true
+[2018.06.10-12.20.57:481][201]LogSavePackage: Save=29.02ms
+[2018.06.10-12.20.57:482][201]LogSavePackage: Moving 'E:/faker/final/main/Saved/NewMaterial83E407DC4C07E07FE7412988E06974BF.tmp' to 'E:/faker/final/main/Content/sinyoung/new/NewMaterial.uasset'
+[2018.06.10-12.20.57:487][201]LogSavePackage: Display: Finished SavePackage E:/faker/final/main/Content/sinyoung/new/NewMaterial.uasset
+[2018.06.10-12.20.57:552][202]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.06.10-12.20.57:552][202]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.06.10-12.20.57:552][202]MaterialEditorStats: Texture samplers: 7/16
+[2018.06.10-12.20.57:552][202]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.10-12.21.15:126][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sinyoung/new/shield" FILE="E:/faker/final/main/Content/sinyoung/new/shield.uasset" SILENT=true
+[2018.06.10-12.21.15:169][768]LogSavePackage: Save=36.96ms
+[2018.06.10-12.21.15:169][768]LogSavePackage: Moving 'E:/faker/final/main/Saved/shieldB24074234E898612A1DD44808A8C68D4.tmp' to 'E:/faker/final/main/Content/sinyoung/new/shield.uasset'
+[2018.06.10-12.21.15:174][768]LogSavePackage: Display: Finished SavePackage E:/faker/final/main/Content/sinyoung/new/shield.uasset
+[2018.06.10-12.21.31:108][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-12.21.32:492][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.21.45:348][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.21.56:027][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.22.13:189][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-12.22.29:704][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.22.37:585][906]LogSlate: Window '색 선택기' being destroyed
+[2018.06.10-12.22.38:323][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-12.22.39:745][960]LogSlate: Window '색 선택기' being destroyed
+[2018.06.10-12.22.40:525][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.22.46:736][146]LogSlate: Window '색 선택기' being destroyed
+[2018.06.10-12.22.49:560][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.23.04:942][630]LogSlate: Window '색 선택기' being destroyed
+[2018.06.10-12.23.11:535][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.23.44:878][649]LogSlate: Window '색 선택기' being destroyed
+[2018.06.10-12.23.47:269][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.23.51:669][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-12.23.59:272][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-12.24.04:696][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-12.24.14:007][382]LogSlate: Window '색 선택기' being destroyed
+[2018.06.10-12.24.15:148][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-12.24.37:499][ 34]LogSlate: Window '색 선택기' being destroyed
+[2018.06.10-12.24.54:709][461]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.291 s
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: === Handled ensure: ===
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: 
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: Ensure condition failed: StructHandle->GetValue(Result) == FPropertyAccess::Success [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\DetailCustomizations\Private\RawDistributionVectorStructCustomization.cpp] [Line: 208]
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: 
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: Stack: 
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: [Callstack] 0x00000000CEECB6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: [Callstack] 0x00000000CEC2AE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: [Callstack] 0x00000000CEC3ECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: [Callstack] 0x00000000C10F0250 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: [Callstack] 0x00000000C1112CD1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: [Callstack] 0x00000000C1007064 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: [Callstack] 0x00000000C1008253 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:709][461]LogOutputDevice: Error: [Callstack] 0x00000000C10CFAA5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0E33BF7 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0E52136 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0E89BE0 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0E35746 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0E52044 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0E604A1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0E604F4 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0D2449C UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0D27999 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000C0E35875 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000CF876057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000CF87BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000CFAE1EB7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000CFAE2745 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:710][461]LogOutputDevice: Error: [Callstack] 0x00000000CFF2652A UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:711][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CFFC5EDE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CF8A304C UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CF8A3292 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CF8719B6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CF8A3B4A UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CF872DFA UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CF8CA79E UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000CF8C9777 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x0000000057CE6F3A UE4Editor.exe!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x0000000057CF6BD0 UE4Editor.exe!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x0000000057CF6C4A UE4Editor.exe!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x0000000057D04149 UE4Editor.exe!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x0000000057D05B57 UE4Editor.exe!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x00000000017F1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: [Callstack] 0x000000000329F061 ntdll.dll!UnknownFunction []
+[2018.06.10-12.24.54:712][461]LogOutputDevice: Error: 
+[2018.06.10-12.24.54:723][461]LogStats:                SubmitErrorReport -  0.000 s
