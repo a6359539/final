@@ -1,0 +1,1348 @@
+﻿Log file open, 07/05/18 02:19:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1797401844) SRandInit(1797401844).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.805067
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.314s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file E:/faker/final/main/Binaries/Win64/UE4Editor-main-6487.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-UOVD1FB (192.168.123.102:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.04-17.19.19:292][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.04-17.19.19:292][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.04-17.19.19:432][  0]LogInit: Computer: DESKTOP-UOVD1FB
+[2018.07.04-17.19.19:432][  0]LogInit: User: master
+[2018.07.04-17.19.19:432][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.04-17.19.19:432][  0]LogInit: High frequency timer resolution =2.630624 MHz
+[2018.07.04-17.19.19:433][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.07.04-17.19.19:433][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.04-17.19.19:433][  0]LogMemory: Process Physical Memory: 282.18 MB used, 282.18 MB peak
+[2018.07.04-17.19.19:433][  0]LogMemory: Process Virtual Memory: 273.29 MB used, 273.29 MB peak
+[2018.07.04-17.19.19:433][  0]LogMemory: Physical Memory: 3136.45 MB used,  4944.30 MB free, 8080.75 MB total
+[2018.07.04-17.19.19:433][  0]LogMemory: Virtual Memory: 709.20 MB used,  4944.30 MB free, 134217728.00 MB total
+[2018.07.04-17.19.20:494][  0]LogInit: Using OS detected language (ko-KR).
+[2018.07.04-17.19.20:494][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.07.04-17.19.20:574][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.07.04-17.19.21:225][  0]LogStreaming: Display: Took  0.730s to EndInitTextLocalization.
+[2018.07.04-17.19.21:226][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.04-17.19.21:384][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.04-17.19.21:384][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.04-17.19.24:729][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.04-17.19.24:828][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.07.04-17.19.24:828][  0]LogD3D11RHI:       3032/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.04-17.19.24:836][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5600' (Feature Level 11_0)
+[2018.07.04-17.19.24:836][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.04-17.19.24:839][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.04-17.19.24:839][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.04-17.19.24:839][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.04-17.19.24:849][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.04-17.19.24:849][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.04-17.19.24:849][  0]LogWindows: EnumDisplayDevices:
+[2018.07.04-17.19.24:850][  0]LogWindows:    0. 'Intel(R) HD Graphics 5600' (P:1 D:1)
+[2018.07.04-17.19.24:851][  0]LogWindows:    1. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.07.04-17.19.24:851][  0]LogWindows:    2. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.07.04-17.19.24:852][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.04-17.19.24:852][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.07.04-17.19.24:852][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.04-17.19.24:852][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.04-17.19.24:852][  0]LogRHI: Texture pool is 2122 MB (70% of 3032 MB)
+[2018.07.04-17.19.24:917][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.04-17.19.24:917][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.04-17.19.24:917][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.04-17.19.24:956][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.04-17.19.24:961][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (E:/faker/final/main/Intermediate/Shaders/WorkingDirectory/9948/).
+[2018.07.04-17.19.24:962][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/master/AppData/Local/Temp/UnrealShaderWorkingDir/240D6405475B5F3440F60CA4277706BF/'.
+[2018.07.04-17.19.26:071][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.04-17.19.26:093][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.04-17.19.26:113][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.04-17.19.26:132][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.04-17.19.26:154][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.04-17.19.26:179][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.04-17.19.26:204][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.04-17.19.26:229][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.04-17.19.26:238][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.04-17.19.26:258][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.04-17.19.26:280][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.04-17.19.26:305][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.04-17.19.26:326][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.04-17.19.26:344][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.04-17.19.26:364][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.04-17.19.26:404][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.04-17.19.26:404][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.04-17.19.26:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.04-17.19.26:432][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.04-17.19.26:511][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.04-17.19.26:529][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.04-17.19.26:550][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.04-17.19.26:574][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.04-17.19.26:596][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.04-17.19.26:627][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.04-17.19.26:627][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.04-17.19.27:180][  0]LogXGEController: Cleaning working directory: C:/Users/master/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.04-17.19.27:180][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.04-17.19.27:181][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.04-17.19.27:181][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.04-17.19.29:984][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.04-17.19.30:347][  0]LogDerivedDataCache: Loaded boot cache 0.36s 76MB C:/Users/master/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.04-17.19.30:347][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/master/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.04-17.19.30:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/faker/final/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.04-17.19.30:347][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.04-17.19.30:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/faker/final/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.04-17.19.30:347][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.04-17.19.30:387][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.04-17.19.30:401][  0]LogDerivedDataCache: Using Local data cache path C:/Users/master/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.04-17.19.30:421][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.04-17.19.30:426][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.04-17.19.30:440][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.04-17.19.30:440][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.04-17.19.33:846][  0]LogAssetRegistry: FAssetRegistry took 0.0310 seconds to start up
+[2018.07.04-17.19.35:830][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.04-17.19.36:321][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.04-17.19.36:328][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.04-17.19.36:329][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.04-17.19.36:330][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.04-17.19.36:330][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.04-17.19.36:330][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.04-17.19.36:434][  0]LogNetVersion: main , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3158640400)
+[2018.07.04-17.19.38:123][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.171111 seconds
+[2018.07.04-17.19.38:135][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.04-17.19.38:135][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.04-17.19.38:135][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.04-17.19.44:993][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.04-17.19.45:047][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.04-17.19.45:520][  0]LogLinker: Warning: '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter' 파일을 찾을 수 없습니다.
+[2018.07.04-17.19.45:520][  0]LogLinker: Warning: '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter' 파일을 찾을 수 없습니다.
+[2018.07.04-17.19.45:521][  0]LogUObjectGlobals: Warning: 'Class /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' 오브젝트를 찾는 데 실패했습니다.
+[2018.07.04-17.19.45:521][  0]Error: CDO Constructor (mainGameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+
+[2018.07.04-17.19.45:521][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2018.07.04-17.19.45:521][  0]LogUObjectBase: Warning: Error: CDO Constructor (mainGameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+
+[2018.07.04-17.19.45:537][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.07.04-17.19.49:502][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.07.04-17.19.49:879][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.04-17.19.49:879][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.04-17.19.49:922][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.04-17.19.49:959][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.04-17.19.50:992][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.04-17.19.51:327][  0]LogOcInput: OculusInput pre-init called
+[2018.07.04-17.19.51:662][  0]LogEngine: Initializing Engine...
+[2018.07.04-17.19.51:671][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.04-17.19.51:678][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.04-17.19.51:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.04-17.19.52:720][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.04-17.19.52:765][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.04-17.19.52:853][  0]LogInit: FAudioDevice initialized.
+[2018.07.04-17.19.53:091][  0]LogDerivedDataCache: Saved boot cache 0.23s 76MB C:/Users/master/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.04-17.19.53:123][  0]LogInit: Texture streaming: Enabled
+[2018.07.04-17.19.53:175][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.04-17.19.53:228][  0]LogInit: Transaction tracking system initialized
+[2018.07.04-17.19.53:335][  0]BlueprintLog: New page: 에디터 로드
+[2018.07.04-17.19.53:934][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.07.04-17.19.54:721][  0]LogConsoleResponse: Display: 
+[2018.07.04-17.19.55:615][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.04-17.19.55:616][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.04-17.19.55:616][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.04-17.19.55:616][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.04-17.19.55:616][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.04-17.19.55:771][  0]LogFileCache: Scanning file cache for directory 'E:/faker/final/main/Content/' took 0.07s
+[2018.07.04-17.19.56:875][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.04-17.19.56:878][  0]Cmd: MAP LOAD FILE="E:/faker/final/main/Content/Battle/battle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.04-17.19.56:980][  0]LightingResults: New page: 라이팅 빌드
+[2018.07.04-17.19.57:000][  0]MapCheck: New page: 맵 체크
+[2018.07.04-17.19.57:000][  0]LightingResults: New page: 라이팅 빌드
+[2018.07.04-17.20.42:342][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [154.347031ms] /Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Meshes/KwangFrostwalker.KwangFrostwalker
+[2018.07.04-17.20.46:555][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [89.622459ms] /Game/ParagonShinbi/Characters/Heroes/Shinbi/Meshes/Shinbi.Shinbi
+[2018.07.04-17.20.50:850][  0]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.20.51:004][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.04-17.20.51:125][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.04-17.20.51:494][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 368.137ms.
+[2018.07.04-17.20.51:494][  0]LogFileHelpers: Loading map 'battle' took 54.618
+[2018.07.04-17.20.51:912][  0]LogCollectionManager: Loaded 0 collections in 0.004134 seconds
+[2018.07.04-17.20.51:986][  0]LogFileCache: Scanning file cache for directory 'E:/faker/final/main/Saved/Collections/' took 0.01s
+[2018.07.04-17.20.51:986][  0]LogFileCache: Scanning file cache for directory 'E:/faker/final/main/Content/Developers/master/Collections/' took 0.01s
+[2018.07.04-17.20.51:986][  0]LogFileCache: Scanning file cache for directory 'E:/faker/final/main/Content/Collections/' took 0.01s
+[2018.07.04-17.20.51:986][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.04-17.20.52:008][  0]LogContentBrowser: Native class hierarchy populated in 0.0201 seconds. Added 2454 classes and 560 folders.
+[2018.07.04-17.20.52:034][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.07.04-17.20.52:776][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.07.04-17.20.52:798][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.07.04-17.20.53:434][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.07.04-17.20.53:434][  0]LogLoad: (Engine Initialization) Total time: 103.96 seconds
+[2018.07.04-17.20.53:434][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.04-17.20.53:832][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.07.04-17.20.53:851][  0]LogSlate: Took 0.008306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.04-17.20.53:881][  0]LogSlate: Took 0.029194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.07.04-17.20.53:915][  0]LogSlate: Took 0.033007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2018.07.04-17.20.53:922][  0]LogSlate: Took 0.006615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.04-17.20.53:940][  0]LogSlate: Took 0.008338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.04-17.20.54:359][  0]LogSlate: Took 0.009930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.04-17.20.54:531][  1]LogRenderer: Reallocating scene render targets to support 796x488 Format 9 NumSamples 1 (Frame:1).
+[2018.07.04-17.20.56:344][  5]LogAssetRegistry: Asset discovery search completed in 82.5207 seconds
+[2018.07.04-17.20.56:351][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.04-17.20.56:351][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000141 seconds (updated 0 objects)
+[2018.07.04-17.26.20:970][979]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.07.04-17.26.57:033][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.04-17.26.57:152][137]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.04-17.26.57:237][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.26.57:239][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.04-17.26.57:247][137]PIE: New page: PIE 세션: battle (2018. 7. 5. 오전 11:26:57)
+[2018.07.04-17.26.57:248][137]LogPlayLevel: Creating play world package: /Game/Battle/UEDPIE_1_battle
+[2018.07.04-17.26.57:281][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033050s)
+[2018.07.04-17.26.57:282][137]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.26.57:283][137]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2018.07.04-17.26.57:283][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle/battle.battle to /Game/Battle/UEDPIE_1_battle.battle (0.035119s)
+[2018.07.04-17.26.57:330][137]LogLoad: Game class is 'BP_BattleGM_C'
+[2018.07.04-17.26.57:351][137]LogWorld: Bringing World /Game/Battle/UEDPIE_1_battle.battle up for play (max tick rate 60) at 2018.07.05-02.26.57
+[2018.07.04-17.26.57:359][137]LogWorld: Bringing up level for play took: 0.018948
+[2018.07.04-17.26.57:361][137]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.26.57:362][137]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.07.04-17.26.57:362][137]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.26.57:363][137]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.07.04-17.26.57:365][137]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.26.57:366][137]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.07.04-17.26.57:371][137]PIE: /Game/Battle/UEDPIE_1_battle 에 대한 에디터에서 플레이 시작 시간: -0.621
+[2018.07.04-17.26.57:375][137]PIE: New page: PIE 세션: battle (2018. 7. 5. 오전 11:26:57)
+[2018.07.04-17.26.57:402][137]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.04-17.26.57:416][137]LogInit: FAudioDevice initialized.
+[2018.07.04-17.26.57:456][137]LogNet: Browse: 127.0.0.1:17777//Game/Battle/battle
+[2018.07.04-17.26.57:456][137]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.26.57:457][137]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.07.04-17.26.57:457][137]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.07.04-17.26.57:457][137]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.07.04-17.26.57:458][137]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.26.57:459][137]LogNet: Game client on port 17777, rate 10000
+[2018.07.04-17.26.57:460][137]PIE: /Game/Battle/battle 에 대한 에디터에서 플레이 시작 시간: -0.532
+[2018.07.04-17.26.57:464][137]PIE: New page: PIE 세션: battle (2018. 7. 5. 오전 11:26:57)
+[2018.07.04-17.26.57:474][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.04-17.26.57:546][137]LogNet: Browse: 127.0.0.1:17777//Game/Battle/battle
+[2018.07.04-17.26.57:546][137]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.26.57:546][137]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.07.04-17.26.57:546][137]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.07.04-17.26.57:546][137]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.07.04-17.26.57:547][137]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.26.57:547][137]LogNet: Game client on port 17777, rate 10000
+[2018.07.04-17.26.57:555][137]PIE: /Game/Battle/battle 에 대한 에디터에서 플레이 시작 시간: -0.437
+[2018.07.04-17.26.57:571][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.26.57:573][137]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63351
+[2018.07.04-17.26.57:574][137]LogHandshake: SendConnectChallenge. Timestamp: 0.027909, Cookie: 001110202066231168122070240150123085039070250117159165002129
+[2018.07.04-17.26.57:575][137]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63352
+[2018.07.04-17.26.57:575][137]LogHandshake: SendConnectChallenge. Timestamp: 0.027909, Cookie: 087249063019126188182004086136179062153194163059045172054243
+[2018.07.04-17.26.57:588][137]LogHandshake: SendChallengeResponse. Timestamp: 0.027909, Cookie: 001110202066231168122070240150123085039070250117159165002129
+[2018.07.04-17.26.57:590][137]LogHandshake: SendChallengeResponse. Timestamp: 0.027909, Cookie: 087249063019126188182004086136179062153194163059045172054243
+[2018.07.04-17.26.57:713][138]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63351
+[2018.07.04-17.26.57:713][138]LogHandshake: SendChallengeAck. InCookie: 001110202066231168122070240150123085039070250117159165002129
+[2018.07.04-17.26.57:714][138]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63351
+[2018.07.04-17.26.57:714][138]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.26.57:714][138]LogNet: NotifyAcceptedConnection: Name: battle, TimeStamp: 07/05/18 02:26:57, [UNetConnection] RemoteAddr: 127.0.0.1:63351, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.26.57:714][138]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63351, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.26.57:714][138]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63352
+[2018.07.04-17.26.57:714][138]LogHandshake: SendChallengeAck. InCookie: 087249063019126188182004086136179062153194163059045172054243
+[2018.07.04-17.26.57:714][138]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63352
+[2018.07.04-17.26.57:714][138]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.26.57:715][138]LogNet: NotifyAcceptedConnection: Name: battle, TimeStamp: 07/05/18 02:26:57, [UNetConnection] RemoteAddr: 127.0.0.1:63352, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.26.57:715][138]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63352, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.26.57:716][138]LogNetVersion: main 1.0.0.0, NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3663526687)
+[2018.07.04-17.26.57:716][138]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.26.57:717][138]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.26.57:747][139]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Battle/UEDPIE_1_battle.battle: Accepted
+[2018.07.04-17.26.57:748][139]LogNet: Remote platform little endian=1
+[2018.07.04-17.26.57:748][139]LogNet: This platform little endian=1
+[2018.07.04-17.26.57:748][139]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Battle/UEDPIE_1_battle.battle: Accepted
+[2018.07.04-17.26.57:748][139]LogNet: Remote platform little endian=1
+[2018.07.04-17.26.57:748][139]LogNet: This platform little endian=1
+[2018.07.04-17.26.57:776][140]LogNet: Login request: /Game/Battle/battle userId: Invalid
+[2018.07.04-17.26.57:776][140]LogNet: Login request: /Game/Battle/battle userId: Invalid
+[2018.07.04-17.26.57:777][140]LogNet: Welcomed by server (Level: /Game/Battle/UEDPIE_1_battle, Game: /Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C)
+[2018.07.04-17.26.57:778][140]LogLoad: LoadMap: 127.0.0.1:17777//Game/Battle/UEDPIE_1_battle?game=/Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C
+[2018.07.04-17.26.57:870][140]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.26.57:870][140]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.26.57:886][140]LogWorld: Bringing World /Game/Battle/UEDPIE_2_battle.battle up for play (max tick rate 60) at 2018.07.05-02.26.57
+[2018.07.04-17.26.57:888][140]LogWorld: Bringing up level for play took: 0.015499
+[2018.07.04-17.26.57:890][140]LogLoad: Took 0.111582 seconds to LoadMap(/Game/Battle/UEDPIE_1_battle)
+[2018.07.04-17.26.57:892][140]LogNet: Welcomed by server (Level: /Game/Battle/UEDPIE_1_battle, Game: /Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C)
+[2018.07.04-17.26.57:927][140]LogLoad: LoadMap: 127.0.0.1:17777//Game/Battle/UEDPIE_1_battle?game=/Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C
+[2018.07.04-17.26.58:024][140]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.26.58:025][140]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.26.58:041][140]LogWorld: Bringing World /Game/Battle/UEDPIE_3_battle.battle up for play (max tick rate 60) at 2018.07.05-02.26.58
+[2018.07.04-17.26.58:043][140]LogWorld: Bringing up level for play took: 0.016787
+[2018.07.04-17.26.58:043][140]LogLoad: Took 0.116285 seconds to LoadMap(/Game/Battle/UEDPIE_1_battle)
+[2018.07.04-17.26.58:128][141]LogRenderer: Reallocating scene render targets to support 912x512 Format 9 NumSamples 1 (Frame:1).
+[2018.07.04-17.26.58:173][141]LogNet: Client netspeed is 10000
+[2018.07.04-17.26.58:173][141]LogNet: Join request: /Game/Battle/battle?SplitscreenCount=1
+[2018.07.04-17.26.58:182][141]LogNet: Join succeeded: 256
+[2018.07.04-17.26.58:182][141]LogNet: Client netspeed is 10000
+[2018.07.04-17.26.58:182][141]LogNet: Join request: /Game/Battle/battle?SplitscreenCount=1
+[2018.07.04-17.26.58:183][141]LogNet: Join succeeded: 257
+[2018.07.04-17.26.58:194][141]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.07.04-17.26.58:200][141]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.07.04-17.26.58:281][142]LogSlate: Took 0.005933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.07.04-17.26.58:319][143]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.26.58:378][143]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.26.58:452][143]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.26.58:500][143]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.26.58:543][143]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.26.58:552][143]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.26.58:591][143]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.26.58:635][143]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.01:043][187]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.01:044][187]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.01:048][187]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:7C35
+[2018.07.04-17.27.01:049][187]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.01:049][187]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:7C4A
+[2018.07.04-17.27.01:049][187]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.01:049][187]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:7C73
+[2018.07.04-17.27.01:049][187]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.01:049][187]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:7C88
+[2018.07.04-17.27.01:050][187]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.01:050][187]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:uiskillendsetsword:043F
+[2018.07.04-17.27.01:050][187]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.01:050][187]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:uiskillendsetsword:0454
+[2018.07.04-17.27.01:050][187]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.01:050][187]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:uiskillendsetsword:0530
+[2018.07.04-17.27.01:051][187]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.01:051][187]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:uiskillendsetsword:0545
+[2018.07.04-17.27.01:051][187]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.01:051][187]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:uiskillendsetsword:0575
+[2018.07.04-17.27.01:051][187]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.01:051][187]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:uiskillendsetsword:058A
+[2018.07.04-17.27.01:051][187]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.01:065][187]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.01:528][195]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:2723
+[2018.07.04-17.27.01:529][195]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.01:529][195]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:2738
+[2018.07.04-17.27.01:529][195]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.01:648][197]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.01:937][203]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.02:305][208]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.02:305][208]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.02:416][210]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.02:503][212]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.02:524][212]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.02:574][213]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.02:787][217]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.02:835][218]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.02:969][221]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.03:073][223]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.05:125][268]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.05:125][268]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.05:128][268]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:7C35
+[2018.07.04-17.27.05:128][268]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.05:128][268]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:7C4A
+[2018.07.04-17.27.05:128][268]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.05:129][268]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:7C73
+[2018.07.04-17.27.05:129][268]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.05:129][268]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:7C88
+[2018.07.04-17.27.05:129][268]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.05:129][268]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_2_battle.battle:PersistentLevel.kwangsword_C_0
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:uiskillendsetsword:043F
+[2018.07.04-17.27.05:129][268]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.05:130][268]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.05:130][268]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.05:130][268]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.05:130][268]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.05:130][268]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.05:140][268]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.05:596][281]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.05:596][281]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.05:633][282]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.06:048][292]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.06:250][298]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.06:257][298]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.06:402][302]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.06:402][302]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.06:523][306]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.06:601][308]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.06:698][311]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.06:759][313]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.06:911][317]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.07:208][326]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.08:731][372]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.08:731][372]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.08:738][372]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.09:369][392]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function saveattackcombo will not be processed.
+[2018.07.04-17.27.09:738][404]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.09:738][404]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.09:740][404]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.09:740][404]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.09:740][404]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.09:741][404]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.09:741][404]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.09:741][404]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.09:741][404]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.09:742][404]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.09:742][404]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.09:742][404]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.09:748][404]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.10:228][420]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.10:229][420]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.10:603][432]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.10:691][435]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.11:046][446]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.11:075][447]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.11:176][450]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.11:295][454]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.11:327][455]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.11:352][456]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.11:511][461]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.11:604][464]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.11:743][469]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.11:846][472]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.13:283][518]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.13:283][518]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.13:289][518]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.13:680][531]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function saveattackcombo will not be processed.
+[2018.07.04-17.27.13:866][537]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.14:300][551]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function resetcom will not be processed.
+[2018.07.04-17.27.14:557][560]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.14:557][560]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.14:565][560]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.14:971][573]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function saveattackcombo will not be processed.
+[2018.07.04-17.27.15:003][574]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.15:026][575]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.15:026][575]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.15:656][593]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.15:680][594]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.15:680][594]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.16:085][607]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function saveattackcombo will not be processed.
+[2018.07.04-17.27.16:202][611]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.16:355][616]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.16:379][617]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.16:379][617]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.17:184][643]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.17:628][655]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.17:628][655]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.17:631][655]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.17:631][655]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.17:631][655]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.17:631][655]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.17:632][655]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.17:632][655]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.17:632][655]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.17:632][655]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.17:632][655]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.17:633][655]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.17:639][655]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.18:092][669]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.27.18:092][669]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.27.18:257][674]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.18:553][684]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.18:791][692]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.18:827][693]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.18:986][698]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.18:987][698]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.19:076][701]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.19:183][704]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.19:274][707]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.27.19:488][714]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.27.19:542][716]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.27.20:839][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.27.20:911][758]LogSlate: Window 'main 게임 미리보기 Client 2 (64-비트/PCD3D_SM5)' being destroyed
+[2018.07.04-17.27.21:001][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.27.21:043][758]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63352, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.27.21:043][758]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63352, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.27.21
+[2018.07.04-17.27.21:043][758]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63352, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.27.21:044][758]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63351, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.27.21:044][758]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63351, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.27.21
+[2018.07.04-17.27.21:044][758]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63351, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.27.21:044][758]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.27.21:044][758]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.27.21
+[2018.07.04-17.27.21:044][758]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.27.21:046][758]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.27.21:047][758]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.27.21
+[2018.07.04-17.27.21:047][758]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.27.21:057][758]LogExit: GameNetDriver None shut down
+[2018.07.04-17.27.21:057][758]LogExit: GameNetDriver None shut down
+[2018.07.04-17.27.21:060][758]LogExit: GameNetDriver None shut down
+[2018.07.04-17.27.22:608][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.04-17.27.29:176][ 69]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.27.29:283][ 70]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.27.30:785][124]LogSlate: Took 0.000552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.04-17.27.31:501][124]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 116 classes and 0 folders.
+[2018.07.04-17.27.33:193][124]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.27.33:197][124]LogBlueprintUserMessages: [kwangsword_C_1] false
+[2018.07.04-17.27.33:216][124]LogSlate: Took 0.006820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.04-17.27.38:320][125]LogSlate: Took 0.009982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.04-17.28.31:806][217]BlueprintLog: New page: kwangsword 컴파일
+[2018.07.04-17.28.33:597][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.33:601][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.33:604][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.33:607][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.34:475][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.34:479][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.34:481][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.34:485][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.34:488][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.34:895][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.34:899][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.34:901][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.34:904][217]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.40:917][269]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.04-17.28.40:984][269]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.28.40:985][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.04-17.28.40:985][269]PIE: New page: PIE 세션: battle (2018. 7. 5. 오전 11:28:40)
+[2018.07.04-17.28.40:985][269]LogPlayLevel: Creating play world package: /Game/Battle/UEDPIE_1_battle
+[2018.07.04-17.28.41:012][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027161s)
+[2018.07.04-17.28.41:013][269]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.28.41:014][269]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2018.07.04-17.28.41:014][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle/battle.battle to /Game/Battle/UEDPIE_1_battle.battle (0.028749s)
+[2018.07.04-17.28.41:085][269]LogLoad: Game class is 'BP_BattleGM_C'
+[2018.07.04-17.28.41:099][269]LogWorld: Bringing World /Game/Battle/UEDPIE_1_battle.battle up for play (max tick rate 60) at 2018.07.05-02.28.41
+[2018.07.04-17.28.41:101][269]LogWorld: Bringing up level for play took: 0.014567
+[2018.07.04-17.28.41:101][269]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.28.41:101][269]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.07.04-17.28.41:101][269]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.28.41:102][269]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.07.04-17.28.41:103][269]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.28.41:103][269]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2018.07.04-17.28.41:104][269]PIE: /Game/Battle/UEDPIE_1_battle 에 대한 에디터에서 플레이 시작 시간: 1.112
+[2018.07.04-17.28.41:109][269]PIE: New page: PIE 세션: battle (2018. 7. 5. 오전 11:28:41)
+[2018.07.04-17.28.41:126][269]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.04-17.28.41:141][269]LogInit: FAudioDevice initialized.
+[2018.07.04-17.28.41:180][269]LogNet: Browse: 127.0.0.1:17777//Game/Battle/battle
+[2018.07.04-17.28.41:180][269]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.28.41:180][269]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.07.04-17.28.41:180][269]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.07.04-17.28.41:180][269]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.07.04-17.28.41:181][269]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.28.41:181][269]LogNet: Game client on port 17777, rate 10000
+[2018.07.04-17.28.41:182][269]PIE: /Game/Battle/battle 에 대한 에디터에서 플레이 시작 시간: 1.189
+[2018.07.04-17.28.41:185][269]PIE: New page: PIE 세션: battle (2018. 7. 5. 오전 11:28:41)
+[2018.07.04-17.28.41:197][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.04-17.28.41:404][269]LogNet: Browse: 127.0.0.1:17777//Game/Battle/battle
+[2018.07.04-17.28.41:404][269]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.28.41:405][269]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.07.04-17.28.41:405][269]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.07.04-17.28.41:405][269]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.07.04-17.28.41:406][269]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.28.41:406][269]LogNet: Game client on port 17777, rate 10000
+[2018.07.04-17.28.41:542][269]PIE: /Game/Battle/battle 에 대한 에디터에서 플레이 시작 시간: 1.549
+[2018.07.04-17.28.41:566][269]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.28.41:566][269]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56928
+[2018.07.04-17.28.41:566][269]LogHandshake: SendConnectChallenge. Timestamp: 0.022923, Cookie: 162102047071022150079200242220244117157255003044128020152216
+[2018.07.04-17.28.41:567][269]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56929
+[2018.07.04-17.28.41:567][269]LogHandshake: SendConnectChallenge. Timestamp: 0.022923, Cookie: 216206025219120027212174193006125237023189065023167012154231
+[2018.07.04-17.28.41:571][269]LogHandshake: SendChallengeResponse. Timestamp: 0.022923, Cookie: 162102047071022150079200242220244117157255003044128020152216
+[2018.07.04-17.28.41:573][269]LogHandshake: SendChallengeResponse. Timestamp: 0.022923, Cookie: 216206025219120027212174193006125237023189065023167012154231
+[2018.07.04-17.28.41:707][270]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56928
+[2018.07.04-17.28.41:707][270]LogHandshake: SendChallengeAck. InCookie: 162102047071022150079200242220244117157255003044128020152216
+[2018.07.04-17.28.41:707][270]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56928
+[2018.07.04-17.28.41:707][270]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.28.41:707][270]LogNet: NotifyAcceptedConnection: Name: battle, TimeStamp: 07/05/18 02:28:41, [UNetConnection] RemoteAddr: 127.0.0.1:56928, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.28.41:707][270]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56928, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.28.41:707][270]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56929
+[2018.07.04-17.28.41:707][270]LogHandshake: SendChallengeAck. InCookie: 216206025219120027212174193006125237023189065023167012154231
+[2018.07.04-17.28.41:708][270]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56929
+[2018.07.04-17.28.41:708][270]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.28.41:708][270]LogNet: NotifyAcceptedConnection: Name: battle, TimeStamp: 07/05/18 02:28:41, [UNetConnection] RemoteAddr: 127.0.0.1:56929, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.28.41:708][270]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56929, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.28.41:708][270]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.28.41:709][270]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.28.41:738][271]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Battle/UEDPIE_1_battle.battle: Accepted
+[2018.07.04-17.28.41:738][271]LogNet: Remote platform little endian=1
+[2018.07.04-17.28.41:738][271]LogNet: This platform little endian=1
+[2018.07.04-17.28.41:738][271]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Battle/UEDPIE_1_battle.battle: Accepted
+[2018.07.04-17.28.41:738][271]LogNet: Remote platform little endian=1
+[2018.07.04-17.28.41:739][271]LogNet: This platform little endian=1
+[2018.07.04-17.28.41:801][272]LogNet: Login request: /Game/Battle/battle userId: Invalid
+[2018.07.04-17.28.41:801][272]LogNet: Login request: /Game/Battle/battle userId: Invalid
+[2018.07.04-17.28.41:805][272]LogNet: Welcomed by server (Level: /Game/Battle/UEDPIE_1_battle, Game: /Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C)
+[2018.07.04-17.28.41:806][272]LogLoad: LoadMap: 127.0.0.1:17777//Game/Battle/UEDPIE_1_battle?game=/Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C
+[2018.07.04-17.28.41:895][272]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.28.41:895][272]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.28.41:910][272]LogWorld: Bringing World /Game/Battle/UEDPIE_2_battle.battle up for play (max tick rate 60) at 2018.07.05-02.28.41
+[2018.07.04-17.28.41:911][272]LogWorld: Bringing up level for play took: 0.014452
+[2018.07.04-17.28.41:912][272]LogLoad: Took 0.105112 seconds to LoadMap(/Game/Battle/UEDPIE_1_battle)
+[2018.07.04-17.28.41:912][272]LogNet: Welcomed by server (Level: /Game/Battle/UEDPIE_1_battle, Game: /Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C)
+[2018.07.04-17.28.41:967][272]LogLoad: LoadMap: 127.0.0.1:17777//Game/Battle/UEDPIE_1_battle?game=/Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C
+[2018.07.04-17.28.42:057][272]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.28.42:057][272]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.28.42:074][272]LogWorld: Bringing World /Game/Battle/UEDPIE_3_battle.battle up for play (max tick rate 60) at 2018.07.05-02.28.42
+[2018.07.04-17.28.42:075][272]LogWorld: Bringing up level for play took: 0.015896
+[2018.07.04-17.28.42:075][272]LogLoad: Took 0.108855 seconds to LoadMap(/Game/Battle/UEDPIE_1_battle)
+[2018.07.04-17.28.42:117][273]LogNet: Client netspeed is 10000
+[2018.07.04-17.28.42:117][273]LogNet: Join request: /Game/Battle/battle?SplitscreenCount=1
+[2018.07.04-17.28.42:120][273]LogNet: Join succeeded: 258
+[2018.07.04-17.28.42:120][273]LogNet: Client netspeed is 10000
+[2018.07.04-17.28.42:120][273]LogNet: Join request: /Game/Battle/battle?SplitscreenCount=1
+[2018.07.04-17.28.42:121][273]LogNet: Join succeeded: 259
+[2018.07.04-17.28.42:124][273]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.07.04-17.28.42:128][273]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.07.04-17.28.42:294][275]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.42:342][275]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.42:395][275]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.42:435][275]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.42:474][275]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.42:478][275]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.42:519][275]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.28.42:558][275]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.44:840][333]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.44:841][333]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.44:843][333]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.44:844][333]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.44:844][333]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.44:844][333]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.44:844][333]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.44:844][333]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.44:845][333]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.44:845][333]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.44:845][333]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.44:845][333]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.44:852][333]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.28.45:337][345]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.45:337][345]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.45:594][352]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.45:800][358]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.45:800][358]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.46:015][364]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.46:194][369]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.28.46:300][372]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.46:307][372]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.46:343][373]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.28.46:522][378]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.46:544][379]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.46:626][381]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.28.46:865][388]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.46:991][392]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.48:792][438]LogBlueprintUserMessages: [kwangsword_C_1] Server: Hello
+[2018.07.04-17.28.49:237][450]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.49:237][450]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.49:240][450]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.49:240][450]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.49:240][450]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.49:240][450]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.49:241][450]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.49:241][450]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.49:241][450]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.49:241][450]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.49:241][450]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.49:241][450]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.49:247][450]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.28.49:723][464]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.49:724][464]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.50:122][476]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.50:178][478]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.50:178][478]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.50:509][488]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.50:654][492]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.28.50:776][496]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.50:784][496]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.50:784][496]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.28.50:978][502]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.51:038][504]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.51:075][505]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.28.51:304][512]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.28.51:432][516]LogBlueprintUserMessages: [kwangsword_C_0] Server: true
+[2018.07.04-17.28.53:175][570]LogBlueprintUserMessages: [kwangsword_C_1] Server: Hello
+[2018.07.04-17.28.53:714][587]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:714][587]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:715][587]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:715][587]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:715][587]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:715][587]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:719][587]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_3_battle.battle:PersistentLevel.kwangsword_C_1
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:646F
+[2018.07.04-17.28.53:719][587]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:719][587]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_3_battle.battle:PersistentLevel.kwangsword_C_1
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:6484
+[2018.07.04-17.28.53:719][587]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:745][588]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:745][588]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:780][589]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:780][589]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:811][590]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:811][590]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:844][591]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:844][591]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:877][592]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:877][592]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:909][593]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:910][593]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:945][594]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:946][594]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.53:974][595]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.53:975][595]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.54:008][596]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.54:008][596]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.54:041][597]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.54:042][597]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.54:077][598]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.54:078][598]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.54:115][599]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.54:115][599]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.54:188][601]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.54:188][601]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.54:192][601]LogScript: Warning: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	kwangsword_C /Game/Battle/UEDPIE_3_battle.battle:PersistentLevel.kwangsword_C_1
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:13DE
+[2018.07.04-17.28.54:192][601]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.28.54:192][601]LogScript: Warning: None 에 접근
+	kwangsword_C /Game/Battle/UEDPIE_3_battle.battle:PersistentLevel.kwangsword_C_1
+	Function /Game/sinyoung/shinbi/kwangsword.kwangsword_C:ExecuteUbergraph_kwangsword:13F3
+[2018.07.04-17.28.54:192][601]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.28.54:735][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.28.54:792][617]LogSlate: Window 'main 게임 미리보기 Client 2 (64-비트/PCD3D_SM5)' being destroyed
+[2018.07.04-17.28.54:875][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.28.54:932][617]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56929, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.28.54:932][617]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56929, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.28.54
+[2018.07.04-17.28.54:932][617]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56929, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.28.54:933][617]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56928, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.28.54:933][617]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56928, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.28.54
+[2018.07.04-17.28.54:933][617]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56928, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.28.54:933][617]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.28.54:933][617]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.28.54
+[2018.07.04-17.28.54:933][617]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.28.54:934][617]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.28.54:934][617]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.28.54
+[2018.07.04-17.28.54:934][617]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.28.54:942][617]LogExit: GameNetDriver None shut down
+[2018.07.04-17.28.54:943][617]LogExit: GameNetDriver None shut down
+[2018.07.04-17.28.54:945][617]LogExit: GameNetDriver None shut down
+[2018.07.04-17.28.55:549][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.04-17.29.13:441][ 36]BlueprintLog: New page: kwangsword 컴파일
+[2018.07.04-17.29.15:195][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.15:198][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.15:200][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.15:202][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.16:056][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.16:059][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.16:062][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.16:065][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.16:068][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.16:392][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.16:395][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.16:399][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.16:402][ 36]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.24:608][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.04-17.29.24:734][150]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.04-17.29.24:810][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.29.24:810][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.04-17.29.24:810][150]PIE: New page: PIE 세션: battle (2018. 7. 5. 오전 11:29:24)
+[2018.07.04-17.29.24:810][150]LogPlayLevel: Creating play world package: /Game/Battle/UEDPIE_1_battle
+[2018.07.04-17.29.24:839][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028152s)
+[2018.07.04-17.29.24:839][150]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.29.24:840][150]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.07.04-17.29.24:840][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle/battle.battle to /Game/Battle/UEDPIE_1_battle.battle (0.029483s)
+[2018.07.04-17.29.24:911][150]LogLoad: Game class is 'BP_BattleGM_C'
+[2018.07.04-17.29.24:924][150]LogWorld: Bringing World /Game/Battle/UEDPIE_1_battle.battle up for play (max tick rate 60) at 2018.07.05-02.29.24
+[2018.07.04-17.29.24:926][150]LogWorld: Bringing up level for play took: 0.013570
+[2018.07.04-17.29.24:926][150]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.29.24:927][150]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.07.04-17.29.24:927][150]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.29.24:927][150]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.07.04-17.29.24:928][150]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.29.24:928][150]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2018.07.04-17.29.24:928][150]PIE: /Game/Battle/UEDPIE_1_battle 에 대한 에디터에서 플레이 시작 시간: 0.936
+[2018.07.04-17.29.24:932][150]PIE: New page: PIE 세션: battle (2018. 7. 5. 오전 11:29:24)
+[2018.07.04-17.29.24:946][150]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.04-17.29.24:957][150]LogInit: FAudioDevice initialized.
+[2018.07.04-17.29.24:996][150]LogNet: Browse: 127.0.0.1:17777//Game/Battle/battle
+[2018.07.04-17.29.24:996][150]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.29.24:996][150]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2018.07.04-17.29.24:996][150]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.07.04-17.29.24:996][150]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.07.04-17.29.24:997][150]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.29.24:997][150]LogNet: Game client on port 17777, rate 10000
+[2018.07.04-17.29.24:997][150]PIE: /Game/Battle/battle 에 대한 에디터에서 플레이 시작 시간: 1.004
+[2018.07.04-17.29.24:999][150]PIE: New page: PIE 세션: battle (2018. 7. 5. 오전 11:29:24)
+[2018.07.04-17.29.25:008][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.04-17.29.25:222][150]LogNet: Browse: 127.0.0.1:17777//Game/Battle/battle
+[2018.07.04-17.29.25:223][150]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.29.25:223][150]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2018.07.04-17.29.25:223][150]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.07.04-17.29.25:223][150]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.07.04-17.29.25:224][150]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.29.25:224][150]LogNet: Game client on port 17777, rate 10000
+[2018.07.04-17.29.25:332][150]PIE: /Game/Battle/battle 에 대한 에디터에서 플레이 시작 시간: 1.34
+[2018.07.04-17.29.25:348][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.29.25:348][150]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54787
+[2018.07.04-17.29.25:348][150]LogHandshake: SendConnectChallenge. Timestamp: 0.024063, Cookie: 148049126188146223047009131218126075237002122227064184096153
+[2018.07.04-17.29.25:349][150]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54788
+[2018.07.04-17.29.25:349][150]LogHandshake: SendConnectChallenge. Timestamp: 0.024063, Cookie: 117071136216138204254167170080028220104035001248074008141133
+[2018.07.04-17.29.25:351][150]LogHandshake: SendChallengeResponse. Timestamp: 0.024063, Cookie: 148049126188146223047009131218126075237002122227064184096153
+[2018.07.04-17.29.25:352][150]LogHandshake: SendChallengeResponse. Timestamp: 0.024063, Cookie: 117071136216138204254167170080028220104035001248074008141133
+[2018.07.04-17.29.25:497][151]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54787
+[2018.07.04-17.29.25:497][151]LogHandshake: SendChallengeAck. InCookie: 148049126188146223047009131218126075237002122227064184096153
+[2018.07.04-17.29.25:497][151]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54787
+[2018.07.04-17.29.25:497][151]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.29.25:497][151]LogNet: NotifyAcceptedConnection: Name: battle, TimeStamp: 07/05/18 02:29:25, [UNetConnection] RemoteAddr: 127.0.0.1:54787, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.29.25:497][151]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54787, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.29.25:498][151]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54788
+[2018.07.04-17.29.25:498][151]LogHandshake: SendChallengeAck. InCookie: 117071136216138204254167170080028220104035001248074008141133
+[2018.07.04-17.29.25:498][151]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54788
+[2018.07.04-17.29.25:498][151]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.04-17.29.25:498][151]LogNet: NotifyAcceptedConnection: Name: battle, TimeStamp: 07/05/18 02:29:25, [UNetConnection] RemoteAddr: 127.0.0.1:54788, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.29.25:498][151]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54788, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.29.25:498][151]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.29.25:499][151]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.07.04-17.29.25:523][152]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Battle/UEDPIE_1_battle.battle: Accepted
+[2018.07.04-17.29.25:523][152]LogNet: Remote platform little endian=1
+[2018.07.04-17.29.25:524][152]LogNet: This platform little endian=1
+[2018.07.04-17.29.25:524][152]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Battle/UEDPIE_1_battle.battle: Accepted
+[2018.07.04-17.29.25:524][152]LogNet: Remote platform little endian=1
+[2018.07.04-17.29.25:524][152]LogNet: This platform little endian=1
+[2018.07.04-17.29.25:546][153]LogNet: Login request: /Game/Battle/battle userId: Invalid
+[2018.07.04-17.29.25:546][153]LogNet: Login request: /Game/Battle/battle userId: Invalid
+[2018.07.04-17.29.25:548][153]LogNet: Welcomed by server (Level: /Game/Battle/UEDPIE_1_battle, Game: /Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C)
+[2018.07.04-17.29.25:549][153]LogLoad: LoadMap: 127.0.0.1:17777//Game/Battle/UEDPIE_1_battle?game=/Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C
+[2018.07.04-17.29.25:665][153]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.29.25:665][153]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.29.25:680][153]LogWorld: Bringing World /Game/Battle/UEDPIE_2_battle.battle up for play (max tick rate 60) at 2018.07.05-02.29.25
+[2018.07.04-17.29.25:681][153]LogWorld: Bringing up level for play took: 0.014511
+[2018.07.04-17.29.25:682][153]LogLoad: Took 0.132945 seconds to LoadMap(/Game/Battle/UEDPIE_1_battle)
+[2018.07.04-17.29.25:682][153]LogNet: Welcomed by server (Level: /Game/Battle/UEDPIE_1_battle, Game: /Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C)
+[2018.07.04-17.29.25:735][153]LogLoad: LoadMap: 127.0.0.1:17777//Game/Battle/UEDPIE_1_battle?game=/Game/Battle/BP_BattleGM_2018-03-20-20-26-08.BP_BattleGM_C
+[2018.07.04-17.29.25:825][153]LogAIModule: Creating AISystem for world battle
+[2018.07.04-17.29.25:825][153]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.04-17.29.25:843][153]LogWorld: Bringing World /Game/Battle/UEDPIE_3_battle.battle up for play (max tick rate 60) at 2018.07.05-02.29.25
+[2018.07.04-17.29.25:844][153]LogWorld: Bringing up level for play took: 0.017598
+[2018.07.04-17.29.25:845][153]LogLoad: Took 0.108750 seconds to LoadMap(/Game/Battle/UEDPIE_1_battle)
+[2018.07.04-17.29.25:881][154]LogNet: Client netspeed is 10000
+[2018.07.04-17.29.25:882][154]LogNet: Join request: /Game/Battle/battle?SplitscreenCount=1
+[2018.07.04-17.29.25:884][154]LogNet: Join succeeded: 260
+[2018.07.04-17.29.25:884][154]LogNet: Client netspeed is 10000
+[2018.07.04-17.29.25:885][154]LogNet: Join request: /Game/Battle/battle?SplitscreenCount=1
+[2018.07.04-17.29.25:886][154]LogNet: Join succeeded: 261
+[2018.07.04-17.29.25:890][154]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.07.04-17.29.25:893][154]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.07.04-17.29.26:032][156]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.26:092][156]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.26:154][156]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.26:199][156]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.26:240][156]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.26:245][156]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.26:291][156]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.29.26:326][156]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.44:669][689]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.44:670][689]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.44:672][689]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.44:672][689]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.44:672][689]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.44:672][689]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.44:672][689]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.44:673][689]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.44:673][689]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.44:673][689]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.44:673][689]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.44:673][689]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.44:678][689]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.45:168][703]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.45:169][703]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.45:447][711]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.45:563][714]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.45:696][718]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.45:962][726]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.46:256][734]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.46:333][736]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.46:416][738]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.46:417][738]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.46:617][744]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.46:702][746]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.46:770][748]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.46:919][752]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.48:299][791]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.48:302][791]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.48:302][791]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.48:302][791]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.48:303][791]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.48:303][791]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.48:303][791]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.48:304][791]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.48:304][791]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.48:304][791]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.48:305][791]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.48:310][791]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.48:798][804]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.48:798][804]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.49:060][811]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.49:255][816]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.49:503][823]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.49:763][830]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.50:019][838]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.50:194][843]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.50:331][847]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.50:366][848]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.50:474][851]LogBlueprintUserMessages: [kwangsword_C_0] Server: false
+[2018.07.04-17.29.50:544][853]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.50:615][855]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.50:866][862]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.52:194][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.04-17.29.53:466][922]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.53:469][922]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.53:857][931]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function saveattackcombo will not be processed.
+[2018.07.04-17.29.54:009][935]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.54:270][942]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function resetcom will not be processed.
+[2018.07.04-17.29.55:002][961]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.55:005][961]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.55:392][971]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function saveattackcombo will not be processed.
+[2018.07.04-17.29.55:439][972]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.55:473][973]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.55:828][982]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function saveattackcombo will not be processed.
+[2018.07.04-17.29.55:878][983]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.55:915][984]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.56:352][995]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.56:396][996]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.56:819][  7]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.56:997][ 11]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.57:757][ 29]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function resetcom will not be processed.
+[2018.07.04-17.29.57:842][ 31]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.57:843][ 31]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.57:846][ 31]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.57:850][ 31]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.57:850][ 31]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.57:850][ 31]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.57:851][ 31]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.57:851][ 31]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.57:851][ 31]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.57:851][ 31]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.57:851][ 31]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.57:852][ 31]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.57:852][ 31]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.58:340][ 42]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.29.58:340][ 42]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.29.58:416][ 44]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.58:694][ 51]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.58:887][ 56]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.59:059][ 60]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.59:169][ 63]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.59:172][ 63]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.59:209][ 64]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.59:373][ 68]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.59:467][ 70]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.29.59:502][ 71]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.29.59:702][ 76]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.29.59:974][ 83]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.01:421][119]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.01:425][119]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.30.01:428][119]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.01:429][119]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.01:429][119]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.01:429][119]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.01:430][119]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.01:430][119]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.01:430][119]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.01:431][119]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.01:431][119]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.01:431][119]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.01:907][131]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.30.01:911][131]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.01:911][131]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.02:351][142]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.02:598][148]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.02:781][153]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.30.02:854][155]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.02:927][157]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.30.02:927][157]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.30.03:159][162]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.30.03:223][163]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.30.03:364][166]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.03:448][168]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.30.04:982][204]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.04:986][204]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.30.04:991][204]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.04:991][204]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.04:992][204]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.04:992][204]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.04:993][204]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.04:993][204]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.04:994][204]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.04:994][204]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.04:994][204]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.04:994][204]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.05:408][214]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.30.05:454][215]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.05:455][215]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.05:790][223]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.30.05:847][224]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.05:924][225]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.30.05:980][226]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.30.06:016][227]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.06:143][230]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.30.06:233][232]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.30.06:270][233]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.06:562][239]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.30.06:614][240]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.07:077][252]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.08:755][293]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.08:756][293]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.08:760][293]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function startcollsion will not be processed.
+[2018.07.04-17.30.08:763][293]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.08:763][293]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Visibility 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.08:763][293]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.08:764][293]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.08:764][293]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.08:764][293]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Color and Opacity 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.08:764][293]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.08:765][293]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: SetText (Text) 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.08:765][293]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.08:765][293]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'uiskillendsetsword' 노드: Set Visibility 그래프: uiskillendsetsword 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.09:226][304]PIE: Error: 블루프린트 런타임 오류: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: mainwidget 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.04-17.30.09:226][304]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_kwangsword' 노드: Set Color and Opacity 그래프: EventGraph 오브젝트: kwangsword 설명: None 에 접근
+[2018.07.04-17.30.09:433][309]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor kwangsword_C_1. Function endcollsion will not be processed.
+[2018.07.04-17.30.09:545][312]LogBlueprintUserMessages: [kwangsword_C_1] Server: false
+[2018.07.04-17.30.09:601][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.30.09:664][313]LogSlate: Window 'main 게임 미리보기 Client 2 (64-비트/PCD3D_SM5)' being destroyed
+[2018.07.04-17.30.09:764][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Battle/battle.battle:PersistentLevel' has LevelScriptBlueprint '/Game/Battle/battle.battle:PersistentLevel.battle' with GeneratedClass '/Game/Battle/battle.battle_C' with ClassGeneratedBy '/Game/Battle/battle.battle:PersistentLevel.battle'
+[2018.07.04-17.30.09:841][313]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54788, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.30.09:842][313]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54788, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.30.09
+[2018.07.04-17.30.09:842][313]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54788, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.30.09:842][313]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54787, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.30.09:842][313]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54787, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.30.09
+[2018.07.04-17.30.09:842][313]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54787, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.30.09:842][313]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.30.09:843][313]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.30.09
+[2018.07.04-17.30.09:843][313]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.30.09:843][313]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.30.09:843][313]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2018.07.04-17.30.09
+[2018.07.04-17.30.09:843][313]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.07.04-17.30.09:851][313]LogExit: GameNetDriver None shut down
+[2018.07.04-17.30.09:852][313]LogExit: GameNetDriver None shut down
+[2018.07.04-17.30.09:855][313]LogExit: GameNetDriver None shut down
+[2018.07.04-17.30.10:550][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.04-17.30.16:923][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.04-17.30.17:204][535]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.07.04-17.30.17:792][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.04-17.30.17:793][535]AnimBlueprintLog: Warning: 슬롯노드: Kwanganimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.07.04-17.30.17:807][535]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2018.07.04-17.30.18:437][535]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.04-17.30.18:978][535]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0AFF
+[2018.07.04-17.30.18:978][535]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0BA9
+[2018.07.04-17.30.18:978][535]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0CE1
+[2018.07.04-17.30.18:978][535]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0D0F
+[2018.07.04-17.30.18:978][535]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0DAD
+[2018.07.04-17.30.18:978][535]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0E39
+[2018.07.04-17.30.18:978][535]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:091E
+[2018.07.04-17.30.18:978][535]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:09A2
+[2018.07.04-17.30.18:978][535]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0A26
+[2018.07.04-17.30.19:136][535]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0011 seconds. Added 1 classes and 0 folders.
+[2018.07.04-17.30.19:570][535]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.04-17.30.19:876][538]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0AFF
+[2018.07.04-17.30.19:877][538]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0BA9
+[2018.07.04-17.30.19:877][538]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0CE1
+[2018.07.04-17.30.19:877][538]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0D0F
+[2018.07.04-17.30.19:877][538]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0DAD
+[2018.07.04-17.30.19:877][538]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:0E39
+[2018.07.04-17.30.19:877][538]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:091E
+[2018.07.04-17.30.19:877][538]LogScript: Warning: K2Node_DynamicCast_AsKwangsword 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Kwanganimblueprint_C /Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Kwanganimblueprint_C_13
+	Function /Game/sinyoung/shinbi/Kwanganimblueprint.Kwanganimblueprint_C:ExecuteUbergraph_Kwanganimblueprint:09A2
+[2018.07.04-17.30.31:739][826]LogUObjectArray: Warning: Other object in slot
+[2018.07.04-17.30.32:697][826]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.957 s
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: 
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: Stack: 
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000AB05B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000AADBAE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000AADCECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000A3E33DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x000000009779B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x0000000096B3C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000969C77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000969CAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x0000000096B06E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000AA5D6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000AA5DBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000AA80C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000AA630475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000AA608360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000AA5FB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000ADD8E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000ADD81B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000ADD9052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000ADD7D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000DC5AB85D USER32.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000DC5AB1EF USER32.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000ADD91666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x0000000077A05475 UE4Editor.exe!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x0000000077A16BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x0000000077A16C4A UE4Editor.exe!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x0000000077A24149 UE4Editor.exe!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x0000000077A25B57 UE4Editor.exe!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000DECC1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: [Callstack] 0x00000000DF09CB31 ntdll.dll!UnknownFunction []
+[2018.07.04-17.30.32:698][826]LogOutputDevice: Error: 
+[2018.07.04-17.30.32:705][826]LogStats:                SubmitErrorReport -  0.000 s
